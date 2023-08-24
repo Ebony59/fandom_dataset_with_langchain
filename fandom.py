@@ -14,7 +14,6 @@ from langchain.prompts.chat import (
 from langchain.chains import create_extraction_chain
 
 from util.load_fandom import web_loader
-from util.openai import set_openai_key
 from config.prompt_template_config import *
 
 global mistaken_names

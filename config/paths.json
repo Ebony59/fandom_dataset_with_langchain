@@ -1,0 +1,4 @@
+{
+    "summary_csv_dir" : "./output/summary_csv/",
+    "conversation_csv_dir" : "./output/conversation_csv/"
+}

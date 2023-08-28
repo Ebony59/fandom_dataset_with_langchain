@@ -17,7 +17,7 @@ from util.load_fandom import web_loader
 from config.prompt_template_config import *
 
 global mistaken_names
-mistaken_names = ['unknown','chapter','note','notes','she','he','it','them','overview']
+mistaken_names = ['unknown','chapter','character','note','notes','she','he','it','him','her','them','overview']
 
 class fandom:
     def __init__(self, fandom_id, original_work="", conversation_df = pd.DataFrame(), summary_df = pd.DataFrame(), docs=[]):

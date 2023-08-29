@@ -38,7 +38,7 @@ def multi_sample_to_dict(df_summary, df_conversation):
             sample_i = sample_to_dict(df_summary.loc[i].to_dict(), df_conversation.loc[i].to_dict())
         except:
             continue
-        dataset.append({'conversation':sample_i, 'source':str(df_summary.loc[i,'fandom_id'])})
+        dataset.append({'conversation':sample_i})
     return dataset
 
 def main():

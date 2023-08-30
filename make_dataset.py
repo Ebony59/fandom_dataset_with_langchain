@@ -50,7 +50,9 @@ def main():
         df_conversation = pd.read_csv(f'./output/conversation_csv/conversation_{fandom_id}.csv')
         dataset_dict = dataset_dict +  multi_sample_to_dict(df_summary, df_conversation)
     
-    dataset = Dataset.from_list(dataset_dict)
+    dataset_df = pd.DataFrame(data=dataset_dict)
+    dataset = Dataset.from_pandas(dataset_df)
+    dataset.push_to_hub('ebony59/AO3_fandom_chatbot')
     
     dataset.save_to_disk('./output/fandom_dataset')
 

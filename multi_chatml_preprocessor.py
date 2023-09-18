@@ -29,14 +29,9 @@ class ConvoFormatter:
         for turn in conversation[start_idx:]:
             prompt = turn["content"]
             if turn['do_train']:
-                prompt = self._get_system_prompt(bot_label=turn['role'], content=prompt)
+                prompt = self._get_train_prompt(label=turn['role'], content=prompt)
             else:
-                prompt = self._get_user_prompt(user_label=turn['role'], content=prompt)
-
-            if turn["role"] == user_label:
-                prompt = self._get_user_prompt(user_label, prompt)
-            else:
-                prompt = self._get_bot_prompt(bot_label, prompt)
+                prompt = self._get_non_train_prompt(label=turn['role'], content=prompt)
             formatted_turns.append(
                 {"prompt": prompt, "mask": int(turn['do_train'])}
             )

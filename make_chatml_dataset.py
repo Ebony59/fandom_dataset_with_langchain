@@ -14,7 +14,7 @@ mistaken_names = ['unknown','chapter','character','note','notes','she','he','it'
 def sample_to_dict(dict_summary, dict_conversation, bot):
     dataset_sample = []
     conversation = dict_conversation['conversation']
-    dataset_sample.append({'content':dict_summary['summary'], 'do_train':False, 'role':'System'})
+    dataset_sample.append({'content':dict_summary['summary'], 'role':'System'})
     characters = [dict_summary['character_1'], dict_summary['character_2']]
     for convo_line in conversation.split('\n'):
         character = convo_line.split(':')[0]
@@ -24,9 +24,9 @@ def sample_to_dict(dict_summary, dict_conversation, bot):
             continue
 
         if character == bot:
-            convo_dict = {'content':convo, 'do_train':True, "role":character}
+            convo_dict = {'content':convo, 'role':character}
         else:
-            convo_dict = {'content':convo, 'do_train':False, "role":"User"}
+            convo_dict = {'content':convo, 'role':'User'}
 
         dataset_sample.append(convo_dict)
 
@@ -50,14 +50,16 @@ def multi_sample_to_dict(df_summary, df_conversation):
             continue
 
         #filter out dataset with more than two characters
-        if character_count > 2:
+        if character_count(df_conversation.loc[i].to_dict()) > 2:
             continue
 
         try:
             sample_1 = sample_to_dict(df_summary.loc[i].to_dict(), df_conversation.loc[i].to_dict(),bot=df_summary.loc[i,'character_1'])
-            dataset.append({'conversation':sample_1})
+            if len(sample_1) > 1:
+                dataset.append({'conversation':sample_1})
             sample_2 = sample_to_dict(df_summary.loc[i].to_dict(), df_conversation.loc[i].to_dict(),bot=df_summary.loc[i,'character_2'])
-            dataset.append({'conversation':sample_2})
+            if len(sample_2) > 1:
+                dataset.append({'conversation':sample_2})
         except:
             continue
     return dataset

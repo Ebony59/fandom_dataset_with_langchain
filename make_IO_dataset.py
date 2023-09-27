@@ -32,6 +32,15 @@ def sample_to_dict(dict_summary, dict_conversation):
 
     return dataset_sample
 
+def character_count(dict_conversation):
+    conversation = dict_conversation['conversation']
+    characters = []
+    for convo_line in conversation.split('\n'):
+        character = convo_line.split(':')[0]
+        if character not in characters:
+            characters.append(character)
+    return len(characters)
+
 def multi_sample_to_dict(df_summary, df_conversation):
     dataset = []
     for i in range(len(df_conversation)):
@@ -39,6 +48,11 @@ def multi_sample_to_dict(df_summary, df_conversation):
             continue
         if is_empty(df_summary.loc[i,'summary']) or is_empty(df_conversation.loc[i,'conversation']):
             continue
+
+        #filter out dataset with more than two characters
+        if character_count(df_conversation.loc[i].to_dict()) > 2:
+            continue
+        
         try:
             sample_i = sample_to_dict(df_summary.loc[i].to_dict(), df_conversation.loc[i].to_dict())
         except:

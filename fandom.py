@@ -99,6 +99,12 @@ class fandom:
         final_output = summary_from_relationships
         return final_output
 
+    def get_original_work_character_summary(self, character_1, character_2,model='gpt-3.5-turbo'):
+        llm = llm = OpenAI(model_name=model,temperature=0)
+        prompt = PromptTemplate.from_template("Write the personality of {character_1}, and the personality of {character_2}, and their relationships, based on {original_work}.")
+        summary = llm.predict(prompt.format(character_1=character_1, character_2=character_2, original_work=self.original_work))
+        return summary
+
     def stuff_chain(self, doc, system_message, model='gpt-3.5-turbo'):
         system_message_prompt = SystemMessagePromptTemplate.from_template(system_message)
         book_message_prompt = HumanMessagePromptTemplate.from_template("{text}")
@@ -211,6 +217,31 @@ class fandom:
 
         return summary_df
     
+    def get_prompt(self,model='gpt-3.5-turbo'):
+        generation_prompt = "Write a 10-line conversations between {character_1} and {character_2} from {original_work}, based on the summarisation of their personalities and relationship: {summary}. Write it in a fandom or galgame style, be as descriptive and creative as possible."
+        existing_character_pairs = []
+        existing_prompt_list = []
+        llm = ChatOpenAI(model=model)
+        for i in range(len(self.summary_df)):
+            character_1 = self.summary_df.loc[i,'character_1']
+            character_2 = self.summary_df.loc[i,'character_2']
+            character_pair = (character_1, character_2)
+            character_pair_reverse = (character_2, character_1)
+            if character_pair in existing_character_pairs:
+                pair_index = existing_character_pairs.index(character_pair)
+                prompt = existing_prompt_list[pair_index]
+            elif character_pair_reverse in existing_character_pairs:
+                pair_index = existing_character_pairs.index(character_pair_reverse)
+                prompt = existing_prompt_list[pair_index]
+            else:
+                prompt = llm.predict(generation_prompt.format(character_1=character_1, character_2=character_2, original_work=self.original_work,summary=self.summary_df.loc[i,'summary']),temperature=0.9)
+                existing_character_pairs.append(character_pair)
+                existing_prompt_list.append(prompt)
+
+            self.summary_df.loc[i,'prompt']=prompt
+        
+        self.summary_df = self.summary_df.loc[:,~self.summary_df.columns.str.contains('^Unnamed')]
+
     def clean_conversation_df(self):
         temp_conversation_df = self.conversation_df
         for i in range(len(self.conversation_df)):

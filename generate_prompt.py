@@ -13,14 +13,17 @@ def main():
     fandom_id = args.fandom_id
     original_work = args.original_work
 
+    summary_csv = pd.read_csv(f'./output/summary_csv/summary_{fandom_id}.csv')
+
     if args.rewrite == False:
-        summary_csv = pd.read_csv(f'./output/summary_csv/summary_{fandom_id}.csv')
         if 'prompt' in summary_csv.columns:
             print(f'prompt already generated for {fandom_id}.')
+            return
 
     print(f'Processing {fandom_id}...')
 
     fd = fandom(fandom_id=fandom_id,original_work=original_work)
+    fd.summary_df = summary_csv
     fd.get_prompt()
     fd.write_to_csv(write_conversation=False,write_summary=True)
 

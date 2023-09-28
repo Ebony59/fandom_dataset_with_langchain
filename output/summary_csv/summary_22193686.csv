@@ -1,6 +1,186 @@
-,fandom_id,character_1,character_2,summary
-0,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill."
-1,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill."
-2,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill."
-3,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill."
-4,22193686,Artoria,Emiya,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill."
+,fandom_id,character_1,character_2,summary,prompt
+0,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill.","Emiya: (leaning against the wall, his piercing gaze fixed on Artoria) So, Artoria, are you ready for this friendly duel?
+
+Artoria: (standing tall with Excalibur at her side, a determined glint in her eyes) Of course, Emiya. I've heard tales of your incredible skill, and I've been itching for a chance to test it.
+
+Emiya: (smirking) I must say, Artoria, your reputation precedes you. It won't be easy to defeat you, but I'm up for the challenge.
+
+Artoria: (raising an eyebrow) You seem confident, Emiya. Perhaps a bit too confident?
+
+Emiya: (chuckling) Well, I have my reasons, but I won't reveal them just yet. Let's just say, I have my fair share of surprises up my sleeve.
+
+Artoria: (tightening her grip on Excalibur) Very well, Emiya. Show me what you're capable of. I won't hold back either.
+
+Emiya: (drawing his dual swords, a glint of determination in his eyes) It's a promise, Artoria. I won't hold back either.
+
+The two warriors face off, their swords clashing with incredible speed and precision. Sparks fly as their blades meet, each strike a testament to their incredible skill and experience.
+
+Emiya: (grinning) Impressive, Artoria. But I have yet to see your full strength.
+
+Artoria: (smirking) And I have yet to witness your true power, Emiya. Don't disappoint me.
+
+As the duel intensifies, Emiya starts to hold back, his movements becoming slightly slower and less forceful. Artoria notices this and realizes that he's doing it out of concern for her safety.
+
+Artoria: (parrying Emiya's attack) Emiya, why are you holding back? Show me your true strength!
+
+Emiya: (smiling softly) I can't risk injuring you, Artoria. Our bond is too precious to me. I'll continue to test your skills, but I won't unleash the full power of my weapons.
+
+Artoria: (her eyes softening) Emiya... I understand. Thank you for your consideration.
+
+Their swords continue to clash, a display of their skill and trust in one another. With each strike, their respect and admiration for each other's abilities grow stronger.
+
+In the end, both Emiya and Artoria realize that their shared experiences and this friendly duel have forged a bond between them that goes beyond mere rivalry. They gain a mutual admiration and respect for one another's skill, their relationship strengthened by this moment.
+
+Emiya: (sheathing his swords) You truly are a formidable opponent, Artoria. I'm honored to have crossed swords with you.
+
+Artoria: (nodding, Excalibur glowing softly) Likewise, Emiya. Your skill is unmatched, and I'm grateful for this duel. We have much to learn from each other.
+
+As the duel comes to an end, Emiya and Artoria stand side by side, their bond solidified through their shared passion for battle and their unyielding respect for one another."
+1,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill.","Emiya: (leaning against the wall, his piercing gaze fixed on Artoria) So, Artoria, are you ready for this friendly duel?
+
+Artoria: (standing tall with Excalibur at her side, a determined glint in her eyes) Of course, Emiya. I've heard tales of your incredible skill, and I've been itching for a chance to test it.
+
+Emiya: (smirking) I must say, Artoria, your reputation precedes you. It won't be easy to defeat you, but I'm up for the challenge.
+
+Artoria: (raising an eyebrow) You seem confident, Emiya. Perhaps a bit too confident?
+
+Emiya: (chuckling) Well, I have my reasons, but I won't reveal them just yet. Let's just say, I have my fair share of surprises up my sleeve.
+
+Artoria: (tightening her grip on Excalibur) Very well, Emiya. Show me what you're capable of. I won't hold back either.
+
+Emiya: (drawing his dual swords, a glint of determination in his eyes) It's a promise, Artoria. I won't hold back either.
+
+The two warriors face off, their swords clashing with incredible speed and precision. Sparks fly as their blades meet, each strike a testament to their incredible skill and experience.
+
+Emiya: (grinning) Impressive, Artoria. But I have yet to see your full strength.
+
+Artoria: (smirking) And I have yet to witness your true power, Emiya. Don't disappoint me.
+
+As the duel intensifies, Emiya starts to hold back, his movements becoming slightly slower and less forceful. Artoria notices this and realizes that he's doing it out of concern for her safety.
+
+Artoria: (parrying Emiya's attack) Emiya, why are you holding back? Show me your true strength!
+
+Emiya: (smiling softly) I can't risk injuring you, Artoria. Our bond is too precious to me. I'll continue to test your skills, but I won't unleash the full power of my weapons.
+
+Artoria: (her eyes softening) Emiya... I understand. Thank you for your consideration.
+
+Their swords continue to clash, a display of their skill and trust in one another. With each strike, their respect and admiration for each other's abilities grow stronger.
+
+In the end, both Emiya and Artoria realize that their shared experiences and this friendly duel have forged a bond between them that goes beyond mere rivalry. They gain a mutual admiration and respect for one another's skill, their relationship strengthened by this moment.
+
+Emiya: (sheathing his swords) You truly are a formidable opponent, Artoria. I'm honored to have crossed swords with you.
+
+Artoria: (nodding, Excalibur glowing softly) Likewise, Emiya. Your skill is unmatched, and I'm grateful for this duel. We have much to learn from each other.
+
+As the duel comes to an end, Emiya and Artoria stand side by side, their bond solidified through their shared passion for battle and their unyielding respect for one another."
+2,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill.","Emiya: (leaning against the wall, his piercing gaze fixed on Artoria) So, Artoria, are you ready for this friendly duel?
+
+Artoria: (standing tall with Excalibur at her side, a determined glint in her eyes) Of course, Emiya. I've heard tales of your incredible skill, and I've been itching for a chance to test it.
+
+Emiya: (smirking) I must say, Artoria, your reputation precedes you. It won't be easy to defeat you, but I'm up for the challenge.
+
+Artoria: (raising an eyebrow) You seem confident, Emiya. Perhaps a bit too confident?
+
+Emiya: (chuckling) Well, I have my reasons, but I won't reveal them just yet. Let's just say, I have my fair share of surprises up my sleeve.
+
+Artoria: (tightening her grip on Excalibur) Very well, Emiya. Show me what you're capable of. I won't hold back either.
+
+Emiya: (drawing his dual swords, a glint of determination in his eyes) It's a promise, Artoria. I won't hold back either.
+
+The two warriors face off, their swords clashing with incredible speed and precision. Sparks fly as their blades meet, each strike a testament to their incredible skill and experience.
+
+Emiya: (grinning) Impressive, Artoria. But I have yet to see your full strength.
+
+Artoria: (smirking) And I have yet to witness your true power, Emiya. Don't disappoint me.
+
+As the duel intensifies, Emiya starts to hold back, his movements becoming slightly slower and less forceful. Artoria notices this and realizes that he's doing it out of concern for her safety.
+
+Artoria: (parrying Emiya's attack) Emiya, why are you holding back? Show me your true strength!
+
+Emiya: (smiling softly) I can't risk injuring you, Artoria. Our bond is too precious to me. I'll continue to test your skills, but I won't unleash the full power of my weapons.
+
+Artoria: (her eyes softening) Emiya... I understand. Thank you for your consideration.
+
+Their swords continue to clash, a display of their skill and trust in one another. With each strike, their respect and admiration for each other's abilities grow stronger.
+
+In the end, both Emiya and Artoria realize that their shared experiences and this friendly duel have forged a bond between them that goes beyond mere rivalry. They gain a mutual admiration and respect for one another's skill, their relationship strengthened by this moment.
+
+Emiya: (sheathing his swords) You truly are a formidable opponent, Artoria. I'm honored to have crossed swords with you.
+
+Artoria: (nodding, Excalibur glowing softly) Likewise, Emiya. Your skill is unmatched, and I'm grateful for this duel. We have much to learn from each other.
+
+As the duel comes to an end, Emiya and Artoria stand side by side, their bond solidified through their shared passion for battle and their unyielding respect for one another."
+3,22193686,Emiya,Artoria,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill.","Emiya: (leaning against the wall, his piercing gaze fixed on Artoria) So, Artoria, are you ready for this friendly duel?
+
+Artoria: (standing tall with Excalibur at her side, a determined glint in her eyes) Of course, Emiya. I've heard tales of your incredible skill, and I've been itching for a chance to test it.
+
+Emiya: (smirking) I must say, Artoria, your reputation precedes you. It won't be easy to defeat you, but I'm up for the challenge.
+
+Artoria: (raising an eyebrow) You seem confident, Emiya. Perhaps a bit too confident?
+
+Emiya: (chuckling) Well, I have my reasons, but I won't reveal them just yet. Let's just say, I have my fair share of surprises up my sleeve.
+
+Artoria: (tightening her grip on Excalibur) Very well, Emiya. Show me what you're capable of. I won't hold back either.
+
+Emiya: (drawing his dual swords, a glint of determination in his eyes) It's a promise, Artoria. I won't hold back either.
+
+The two warriors face off, their swords clashing with incredible speed and precision. Sparks fly as their blades meet, each strike a testament to their incredible skill and experience.
+
+Emiya: (grinning) Impressive, Artoria. But I have yet to see your full strength.
+
+Artoria: (smirking) And I have yet to witness your true power, Emiya. Don't disappoint me.
+
+As the duel intensifies, Emiya starts to hold back, his movements becoming slightly slower and less forceful. Artoria notices this and realizes that he's doing it out of concern for her safety.
+
+Artoria: (parrying Emiya's attack) Emiya, why are you holding back? Show me your true strength!
+
+Emiya: (smiling softly) I can't risk injuring you, Artoria. Our bond is too precious to me. I'll continue to test your skills, but I won't unleash the full power of my weapons.
+
+Artoria: (her eyes softening) Emiya... I understand. Thank you for your consideration.
+
+Their swords continue to clash, a display of their skill and trust in one another. With each strike, their respect and admiration for each other's abilities grow stronger.
+
+In the end, both Emiya and Artoria realize that their shared experiences and this friendly duel have forged a bond between them that goes beyond mere rivalry. They gain a mutual admiration and respect for one another's skill, their relationship strengthened by this moment.
+
+Emiya: (sheathing his swords) You truly are a formidable opponent, Artoria. I'm honored to have crossed swords with you.
+
+Artoria: (nodding, Excalibur glowing softly) Likewise, Emiya. Your skill is unmatched, and I'm grateful for this duel. We have much to learn from each other.
+
+As the duel comes to an end, Emiya and Artoria stand side by side, their bond solidified through their shared passion for battle and their unyielding respect for one another."
+4,22193686,Artoria,Emiya,"The two characters then proceed to face off in a friendly duel to test their skills, and although they both have immense skill, Emiya holds back from unleashing the full power of his weapons for fear of injuring Artoria. This moment illustrates the respect and trust that has grown between the two characters, and their relationship is further strengthened by their shared experiences. In the end, the two forge a strong bond and gain a mutual admiration for one another's skill.","Emiya: (leaning against the wall, his piercing gaze fixed on Artoria) So, Artoria, are you ready for this friendly duel?
+
+Artoria: (standing tall with Excalibur at her side, a determined glint in her eyes) Of course, Emiya. I've heard tales of your incredible skill, and I've been itching for a chance to test it.
+
+Emiya: (smirking) I must say, Artoria, your reputation precedes you. It won't be easy to defeat you, but I'm up for the challenge.
+
+Artoria: (raising an eyebrow) You seem confident, Emiya. Perhaps a bit too confident?
+
+Emiya: (chuckling) Well, I have my reasons, but I won't reveal them just yet. Let's just say, I have my fair share of surprises up my sleeve.
+
+Artoria: (tightening her grip on Excalibur) Very well, Emiya. Show me what you're capable of. I won't hold back either.
+
+Emiya: (drawing his dual swords, a glint of determination in his eyes) It's a promise, Artoria. I won't hold back either.
+
+The two warriors face off, their swords clashing with incredible speed and precision. Sparks fly as their blades meet, each strike a testament to their incredible skill and experience.
+
+Emiya: (grinning) Impressive, Artoria. But I have yet to see your full strength.
+
+Artoria: (smirking) And I have yet to witness your true power, Emiya. Don't disappoint me.
+
+As the duel intensifies, Emiya starts to hold back, his movements becoming slightly slower and less forceful. Artoria notices this and realizes that he's doing it out of concern for her safety.
+
+Artoria: (parrying Emiya's attack) Emiya, why are you holding back? Show me your true strength!
+
+Emiya: (smiling softly) I can't risk injuring you, Artoria. Our bond is too precious to me. I'll continue to test your skills, but I won't unleash the full power of my weapons.
+
+Artoria: (her eyes softening) Emiya... I understand. Thank you for your consideration.
+
+Their swords continue to clash, a display of their skill and trust in one another. With each strike, their respect and admiration for each other's abilities grow stronger.
+
+In the end, both Emiya and Artoria realize that their shared experiences and this friendly duel have forged a bond between them that goes beyond mere rivalry. They gain a mutual admiration and respect for one another's skill, their relationship strengthened by this moment.
+
+Emiya: (sheathing his swords) You truly are a formidable opponent, Artoria. I'm honored to have crossed swords with you.
+
+Artoria: (nodding, Excalibur glowing softly) Likewise, Emiya. Your skill is unmatched, and I'm grateful for this duel. We have much to learn from each other.
+
+As the duel comes to an end, Emiya and Artoria stand side by side, their bond solidified through their shared passion for battle and their unyielding respect for one another."

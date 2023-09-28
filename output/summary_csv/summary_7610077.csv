@@ -1,3 +1,69 @@
-,fandom_id,character_1,character_2,summary
-0,7610077,Alice,Bob,"Alice and Bob have an interesting relationship in the Harry Potter fandom. Alice is an outgoing and confident university student, while Bob is an awkward and uncertain stranger. After crashing into Alice’s table at a coffee shop, Bob introduces himself and reveals that a friend of his asked him to pretend to be Alice’s boyfriend in order to ward off an overly-persistent admirer. After their successful plan works and the admirer leaves, Alice and Bob become friends. As the story progresses, an attraction develops between the two, and Alice invites Bob to a wedding as her plus one. Bob is surprised to learn that Alice is bisexual, and their relationship blossoms into a strong friendship, with Alice helping Bob accept his sexuality and Bob helping Alice find comfort and security."
-1,7610077,Draco,Harry,"As their relationship progresses, Draco eventually reveals to Harry that he is bisexual, a revelation which Harry takes in stride, showing his acceptance of Draco's sexuality. Harry is also able to show his feelings for Draco through his actions, such as buying him a set of knives as a gift. The two eventually declare their love for each other, and Harry proposes to Draco, who happily accepts. Thus concludes their story, with the two characters coming to a mutual understanding and respect, and ultimately finding true love."
+,fandom_id,character_1,character_2,summary,prompt
+0,7610077,Alice,Bob,"Alice and Bob have an interesting relationship in the Harry Potter fandom. Alice is an outgoing and confident university student, while Bob is an awkward and uncertain stranger. After crashing into Alice’s table at a coffee shop, Bob introduces himself and reveals that a friend of his asked him to pretend to be Alice’s boyfriend in order to ward off an overly-persistent admirer. After their successful plan works and the admirer leaves, Alice and Bob become friends. As the story progresses, an attraction develops between the two, and Alice invites Bob to a wedding as her plus one. Bob is surprised to learn that Alice is bisexual, and their relationship blossoms into a strong friendship, with Alice helping Bob accept his sexuality and Bob helping Alice find comfort and security.","Alice: *sits at a coffee shop, engrossed in a thick book, sipping her latte*
+
+Bob: *rushes in, looking flustered, accidentally crashes into Alice's table* Oh, I-I'm so sorry!
+
+Alice: *looks up, smiling warmly* No worries, happens all the time. Are you okay?
+
+Bob: *nervously adjusts his glasses* Yeah, uh, I'm fine. Hi, I'm Bob. Sorry again for the disturbance.
+
+Alice: *extends her hand* Nice to meet you, Bob. I'm Alice. No harm done, believe me. What brings you here in such a rush?
+
+Bob: *blushes* Well, um, this might sound strange, but a friend of mine asked me to pretend to be your boyfriend for a bit. There's this person who's been bothering you, and they thought it might help.
+
+Alice: *raises an eyebrow, intrigued* Pretend boyfriend, huh? Well, that's certainly unexpected. But if it gets rid of this persistent admirer, I'm game. Let's give it a shot, shall we?
+
+Bob: *relieved* Thank you, Alice. I really appreciate your willingness to go along with this crazy plan.
+
+Alice: *grinning mischievously* Hey, life's boring without a little craziness, right? Let's have some fun and teach that admirer a lesson.
+
+*time passes, admirer finally leaves*
+
+Alice: *laughs* Well, that worked better than expected. Thanks for playing the role so convincingly, Bob. You're a natural!
+
+Bob: *blushing* Uh, thanks, Alice. It was... um, interesting, to say the least. But I'm glad it worked out. 
+
+Alice: *genuinely interested* You know, Bob, I think we make a pretty good team. How about we ditch the acting and be friends for real?
+
+Bob: *surprised, but happy* I'd really like that, Alice. You're... different, in a good way. I think we could be great friends.
+
+Alice: *smiling warmly* Excellent! Now, how about being my plus one to my friend's wedding next week? We'll have a blast, I promise.
+
+Bob: *taken aback* Uh, sure, Alice. I'd love to. But I have to admit, there's still so much I don't know about you.
+
+Alice: *grinning playfully* Well, Bob, get ready for a surprise. I'm not only into guys, I'm also attracted to women. Bisexual and proud, my friend!
+
+Bob: *wide-eyed* Wow, Alice, I didn't see that coming. But hey, if our friendship is any indication, I'm ready to accept and support you no matter what.
+
+Alice: *grateful* That means a lot to me, Bob. And I promise, I'll always be here for you too. We've got each other's backs, no matter what."
+1,7610077,Draco,Harry,"As their relationship progresses, Draco eventually reveals to Harry that he is bisexual, a revelation which Harry takes in stride, showing his acceptance of Draco's sexuality. Harry is also able to show his feelings for Draco through his actions, such as buying him a set of knives as a gift. The two eventually declare their love for each other, and Harry proposes to Draco, who happily accepts. Thus concludes their story, with the two characters coming to a mutual understanding and respect, and ultimately finding true love.","Draco: *leans against the bookshelf, glancing sideways at Harry* So, Potter, any plans for the weekend?
+
+Harry: *smirks, looking up from his book* Oh, I thought it was Malfoy asking me out this time. I must be losing my touch.
+
+Draco: *rolls his eyes, playfully nudges Harry* Don't flatter yourself, Potter. But speaking of dating, there's something I need to tell you.
+
+Harry: *raises an eyebrow, concern flickering in his eyes* What is it, Draco?
+
+Draco: *takes a deep breath, his voice slightly shaky* I hope you can accept this, but I'm bisexual. I've been struggling with it for a while, but I trust you enough to confide in you.
+
+Harry: *pauses for a moment, then smiles warmly* Draco, you're my friend. Your sexuality doesn't change that. I'm glad you felt comfortable enough to share this with me.
+
+Draco: *relieved, his shoulders relaxing* Thank you, Harry. That means a lot.
+
+Harry: *grins mischievously, pulling a small box out of his pocket* Speaking of accepting things, I got you something. Open it.
+
+Draco: *curious, he opens the box to reveal a stunning set of knives* Harry... these are incredible. I've been eyeing this set for months!
+
+Harry: *smiles fondly* Well, I figured it's about time I gave you a gift that shows how much you mean to me. And also, I've seen you cook. You need better knives.
+
+Draco: *laughs, pulling Harry into a hug* Thank you, Harry. I appreciate it more than words can say.
+
+Harry: *softly, his voice filled with emotion* Draco, I... I love you.
+
+Draco: *gazes into Harry's eyes, his own filled with adoration* Harry, I love you too. More than I ever thought was possible.
+
+Harry: *grinning ear to ear, he takes Draco's hand* Draco Malfoy, will you marry me?
+
+Draco: *tears of joy welling up, he nods frantically* Yes, Harry Potter, a thousand times yes!
+
+Their story concludes with a mutual understanding and respect, their love like a beacon of light in the darkness. From this moment on, their lives intertwine, their friendship evolving into a passionate and everlasting love. Together, they face the challenges that life throws their way, armed with acceptance, support, and a love that knows no boundaries. And in each other, they find their one true love."

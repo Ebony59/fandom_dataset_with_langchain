@@ -1,8 +1,126 @@
-,fandom_id,character_1,character_2,summary
-0,7635880,Sirius,James,"Sirius and James have been best friends since their days at Hogwarts. Sirius is a punk with a leather jacket, band t-shirt, ripped jeans, and long hair who holds James to a higher standard. James is an outgoing Welsh librarian with a girlfriend and a great sense of humour. When Sirius meets Remus, a beautiful Welshman with a shy demeanor, at a local bookstore, he is instantly smitten. Despite James' mischievous nature, he supports the blossoming relationship between Sirius and Remus, highlighting the strong bond between the three of them."
-1,7635880,Sirius,James,"Sirius and James have been best friends since their days at Hogwarts. Sirius is a punk with a leather jacket, band t-shirt, ripped jeans, and long hair who holds James to a higher standard. James is an outgoing Welsh librarian with a girlfriend and a great sense of humour. When Sirius meets Remus, a beautiful Welshman with a shy demeanor, at a local bookstore, he is instantly smitten. Despite James' mischievous nature, he supports the blossoming relationship between Sirius and Remus, highlighting the strong bond between the three of them."
-2,7635880,Sirius,Lily,"Sirius and Lily have a strong bond, being best friends since childhood. Sirius is a rebellious teen with a mischievous streak, while Lily is a smart and determined student. Despite their rivalry, their friendship is evident in their playful banter and protective nature. Sirius is also deeply in love with Remus, a charming librarian with a Welsh accent. His courage in asking Remus out on a date, despite being unsure of his preferences, is admirable and supported by Lily and their friends. It highlights the potential for a strong romantic relationship between the two, and shows the admiration and respect they have for each other."
-3,7635880,Alice,Sirius,"Alice and Sirius are two characters from the Harry Potter fandom by J.K. Rowling. They have been childhood friends and have grown close over the years. Alice is a bookworm and Sirius is passionate about music, but despite their differences they share an understanding and mutual admiration for one another. When they meet again as adults, Sirius finds himself smitten with Alice and takes the opportunity to get her number, adding a message that his name is Remus. They form a strong connection and their relationship continues to strengthen as the story progresses."
+,fandom_id,character_1,character_2,summary,prompt
+0,7635880,Sirius,James,"Sirius and James have been best friends since their days at Hogwarts. Sirius is a punk with a leather jacket, band t-shirt, ripped jeans, and long hair who holds James to a higher standard. James is an outgoing Welsh librarian with a girlfriend and a great sense of humour. When Sirius meets Remus, a beautiful Welshman with a shy demeanor, at a local bookstore, he is instantly smitten. Despite James' mischievous nature, he supports the blossoming relationship between Sirius and Remus, highlighting the strong bond between the three of them.","Sirius: *walks into the library with a mischievous grin on his face* ""Hey, Prongs! Ready for our next adventure?""
+
+James: *looks up from his book, laughter twinkling in his eyes* ""Always, Padfoot. What's the plan this time? Sneaking into the Restricted Section?""
+
+Sirius: *leans against a bookshelf, his punk attire contrasting with the quietness of the library* ""Nah, got something better in mind. I met this incredible guy at the bookstore. His name's Remus, and trust me, he's something special.""
+
+James: *raises an eyebrow, a teasing smile playing on his lips* ""Oh, really? Are we talking about the 'I'll-let-you-keep-the-last-bite-of-pizza' special, or the 'you're-the-missing-piece-of-my-soul' special?""
+
+Sirius: *laughs, running his fingers through his long hair* ""Definitely the second one. Remus is... something else. Shy, well-read, and he's got these eyes that could make all the stars jealous.""
+
+James: *grinning knowingly* ""Well, Padfoot, I can see you've fallen hard. And Merlin knows, you deserve a love that sparks like fireworks.""
+
+Sirius: *smirks, playfully nudging James with his elbow* ""Yeah, well, you better get ready to be the world's best wingman. I need your help to charm this Remus fellow.""
+
+James: *dramatically places a hand over his heart* ""Fear not, dear Padfoot, for I shall unleash my Welsh charm upon him! Together, we shall conquer hearts and rewrite the stars.""
+
+Sirius: *laughs loudly, his eyes shining with affection for his best friend* ""That's why you're my partner-in-crime, Prongs. With you by my side, I know anything is possible.""
+
+James: *grinning cheekily* ""Well, anything except getting Filch to embrace the spirit of Gobstones. Some things are just beyond our magical abilities.""
+
+Sirius: *laughs again, a warmth blooming in his chest* ""True, but hey, we'll leave that for another day. Right now, let's focus on making Remus feel like the luckiest bloke in the wizarding world.""
+
+James: *stands up, his girlfriend's bookmark falling out of his book* ""Agreed, Padfoot. And remember, no matter what happens, we'll always have each other's backs. The Marauders till the end.""
+
+Sirius: *grabs James' shoulder, a genuine smile on his face* ""Till the end, mate. Now, let's go win over Remus and create a love story worthy of the library shelves.""
+
+Together, they walk out of the library, their laughter echoing through the empty corridors, ready to embark on the next chapter of their mischief and love."
+1,7635880,Sirius,James,"Sirius and James have been best friends since their days at Hogwarts. Sirius is a punk with a leather jacket, band t-shirt, ripped jeans, and long hair who holds James to a higher standard. James is an outgoing Welsh librarian with a girlfriend and a great sense of humour. When Sirius meets Remus, a beautiful Welshman with a shy demeanor, at a local bookstore, he is instantly smitten. Despite James' mischievous nature, he supports the blossoming relationship between Sirius and Remus, highlighting the strong bond between the three of them.","Sirius: *walks into the library with a mischievous grin on his face* ""Hey, Prongs! Ready for our next adventure?""
+
+James: *looks up from his book, laughter twinkling in his eyes* ""Always, Padfoot. What's the plan this time? Sneaking into the Restricted Section?""
+
+Sirius: *leans against a bookshelf, his punk attire contrasting with the quietness of the library* ""Nah, got something better in mind. I met this incredible guy at the bookstore. His name's Remus, and trust me, he's something special.""
+
+James: *raises an eyebrow, a teasing smile playing on his lips* ""Oh, really? Are we talking about the 'I'll-let-you-keep-the-last-bite-of-pizza' special, or the 'you're-the-missing-piece-of-my-soul' special?""
+
+Sirius: *laughs, running his fingers through his long hair* ""Definitely the second one. Remus is... something else. Shy, well-read, and he's got these eyes that could make all the stars jealous.""
+
+James: *grinning knowingly* ""Well, Padfoot, I can see you've fallen hard. And Merlin knows, you deserve a love that sparks like fireworks.""
+
+Sirius: *smirks, playfully nudging James with his elbow* ""Yeah, well, you better get ready to be the world's best wingman. I need your help to charm this Remus fellow.""
+
+James: *dramatically places a hand over his heart* ""Fear not, dear Padfoot, for I shall unleash my Welsh charm upon him! Together, we shall conquer hearts and rewrite the stars.""
+
+Sirius: *laughs loudly, his eyes shining with affection for his best friend* ""That's why you're my partner-in-crime, Prongs. With you by my side, I know anything is possible.""
+
+James: *grinning cheekily* ""Well, anything except getting Filch to embrace the spirit of Gobstones. Some things are just beyond our magical abilities.""
+
+Sirius: *laughs again, a warmth blooming in his chest* ""True, but hey, we'll leave that for another day. Right now, let's focus on making Remus feel like the luckiest bloke in the wizarding world.""
+
+James: *stands up, his girlfriend's bookmark falling out of his book* ""Agreed, Padfoot. And remember, no matter what happens, we'll always have each other's backs. The Marauders till the end.""
+
+Sirius: *grabs James' shoulder, a genuine smile on his face* ""Till the end, mate. Now, let's go win over Remus and create a love story worthy of the library shelves.""
+
+Together, they walk out of the library, their laughter echoing through the empty corridors, ready to embark on the next chapter of their mischief and love."
+2,7635880,Sirius,Lily,"Sirius and Lily have a strong bond, being best friends since childhood. Sirius is a rebellious teen with a mischievous streak, while Lily is a smart and determined student. Despite their rivalry, their friendship is evident in their playful banter and protective nature. Sirius is also deeply in love with Remus, a charming librarian with a Welsh accent. His courage in asking Remus out on a date, despite being unsure of his preferences, is admirable and supported by Lily and their friends. It highlights the potential for a strong romantic relationship between the two, and shows the admiration and respect they have for each other.","Sirius: Lily, my dearest friend, I've got a proposition for you that'll surely brighten up your day! How about we ditch these boring textbooks and go on an adventure? I've got a map that'll lead us to the forbidden corridors of Hogwarts.
+
+Lily: Oh, Sirius, you and your wild ideas! As much as I love a good adventure, we can't risk getting caught and getting detention. We have exams coming up, remember?
+
+Sirius: Exams, schmexams! Who needs them when we have books full of spells and charms right at our fingertips? Besides, you always ace them without breaking a sweat.
+
+Lily: That's because I actually study, Sirius. Unlike you, who relies on pure luck and instincts. But don't worry, I'll help you with your revision. We are in this together, after all.
+
+Sirius: Lily, you're a lifesaver! I can't believe I get to spend quality time with my favorite study buddy. Who needs Remus as a librarian when I have you? Though I must admit, I do miss his enchanting Welsh accent.
+
+Lily: Oh, I'm sure Remus would be flattered to know that you admire both his accent and his library skills. Perhaps you should ask him out on that date you've been contemplating. I know you're unsure about his preferences, but courage suits you well.
+
+Sirius: Lily, you know me too well. I'm terrified of rejection, but if there's anyone who can give me that extra nudge, it's you. I'll ask Remus out, and who knows, maybe he'll say yes, and we can have a romance as epic as James and you.
+
+Lily: Sirius, I believe in you. Just remember, no matter the outcome, our friendship will always remain strong. And if he says yes, I'll even help you plan the most romantic date imaginable.
+
+Sirius: Lily, you're the best friend a guy could ask for. Your support means the world to me. Now let's conquer these potions essays together and then, who knows, the world might just be ours for the taking.
+
+Lily: Agreed, Sirius. Together, we can achieve anything. Now, let's get back to studying before Professor Slughorn catches us slacking off. But be prepared, once exams are over, we shall embark on the adventure of a lifetime!
+
+Sirius: You've got it, Lily! Our mischievous spirits will never be tamed. Let the magic of friendship and the thrill of the unknown guide us on this incredible journey."
+3,7635880,Alice,Sirius,"Alice and Sirius are two characters from the Harry Potter fandom by J.K. Rowling. They have been childhood friends and have grown close over the years. Alice is a bookworm and Sirius is passionate about music, but despite their differences they share an understanding and mutual admiration for one another. When they meet again as adults, Sirius finds himself smitten with Alice and takes the opportunity to get her number, adding a message that his name is Remus. They form a strong connection and their relationship continues to strengthen as the story progresses.","Alice: (enthusiastically) Sirius! It's been ages! How have you been?
+
+Sirius: (smiling) Alice, my dear bookworm, never thought I'd see the day. I've been well, can't complain. And you, still buried in those dusty tomes?
+
+Alice: (playfully) Always and forever, my friend. Books are my sanctuary. But tell me, have you been strumming your guitar or enchanting the world with your music?
+
+Sirius: (chuckling) Oh, you know me too well. The strings of my guitar have missed my touch. I've been composing melodies that even the mermaids would envy.
+
+Alice: (giggling) I'm sure the mermaids are lining up for a private concert. You've always had a way with music. It's like your soul speaks through every note.
+
+Sirius: (blushing) Alice, you flatter me. But it's not just my music that I've missed. It's our conversations, our late-night talks about everything and nothing. You've always been the one who truly understands me.
+
+Alice: (softly) And you, Sirius, have always been the one who makes my heart dance to your melodies. I cherish our friendship, the way you see through my bookish exterior and understand the depths of my passion.
+
+Sirius: (gently) That's because I see the magic within you, Alice. You're more than just a bookworm; you're a symphony waiting to be composed, a story waiting to be written.
+
+Alice: (blushing) Sirius, you always know just what to say. Your words, just like your music, have a way of captivating me. 
+
+Sirius: (boldly) Alice, would it be too much to ask for your number? I'd love to continue our conversations, perhaps even share more melodies and stories together.
+
+Alice: (teasingly) Alright, I'll give you my number, but only if you promise to serenade me with a lullaby under the stars.
+
+Sirius: (grinning) Deal, my dear Alice. And just a small confession, the name I'll be saving your number under is Remus. It has a certain poetic touch, don't you think?
+
+Alice: (laughing) Oh, you incorrigible prankster. Remus it is then. A secret connection between two kindred souls. Let our story continue to unfold, Sirius.
+
+And so, their friendship blossomed into something more, as Sirius and Alice embarked on a journey filled with music, books, and a love that harmonized perfectly, like the most beautiful symphony ever heard."
 4,7635880,Remus,Sirius,"Remus is described as a sharp-featured, intellegent Ravenclaw with a mischievous streak and an affinity for books. He is also described as having a Welsh accent and a blush staining his cheeks. On the other hand, Sirius is a Gryffindor who is outspoken, outgoing and confident. He is also an ink-stained misfit, who is brave enough to ask someone out and admires Remus' intelligence and wit. 
 
-The two become best friends, and their relationship blossoms into a romantic one that is based on a strong foundation of mutual admiration and respect. Together, Sirius and Remus become an iconic couple in the Harry Potter fandom, and their relationship is one of the most beloved in the fandom."
+The two become best friends, and their relationship blossoms into a romantic one that is based on a strong foundation of mutual admiration and respect. Together, Sirius and Remus become an iconic couple in the Harry Potter fandom, and their relationship is one of the most beloved in the fandom.","Remus: *sitting in the Ravenclaw common room, nose buried in a book* Oh Merlin, this potion is fascinating. The process of brewing it is truly intricate, don't you think, Sirius?
+
+Sirius: *grinning mischievously, plopping down beside Remus* Intricate? More like mind-numbingly boring. Come on, Moony, let's do something adventurous for a change.
+
+Remus: *looking up from his book, a blush staining his cheeks* Sirius, you know I enjoy exploring the depths of knowledge. It's what keeps my mind alive.
+
+Sirius: *leaning closer, an admiring glint in his eyes* And that's why you're brilliant, Remus. Your intellect and wit never cease to amaze me.
+
+Remus: *smiling softly, closing his book* And your bravery and confidence inspire me, Sirius. You fearlessly tackle every obstacle in your path.
+
+Sirius: *grinning wider, nudging Remus playfully* Well, maybe I can inspire you to be a little more mischievous, my clever Ravenclaw.
+
+Remus: *raising an eyebrow, a mischievous sparkle in his eyes* Oh, I'm always up for a bit of mischief, Sirius. Just don't blame me when we get caught.
+
+Sirius: *laughing, his eyes sparkling with anticipation* That's the spirit, Moony! Let's show Hogwarts what a Gryffindor and a Ravenclaw can do when we join forces.
+
+Remus: *leaning closer, their eyes locked in a shared understanding* Together, we'll be unstoppable, Sirius. A force to be reckoned with.
+
+Sirius: *grinning, his heart pounding with excitement* And we'll show them all what true love and admiration can accomplish. Our bond is unbreakable, Moony.
+
+Remus: *smiling tenderly, taking Sirius' hand in his* I couldn't agree more, Sirius. Our love will withstand any challenge that comes our way."

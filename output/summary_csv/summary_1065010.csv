@@ -1,7 +1,86 @@
-,fandom_id,character_1,character_2,summary
+,fandom_id,character_1,character_2,summary,prompt
 0,1065010,Harry,Healer,"Summary:
 
-Harry Potter and Healer are two Aurors in J.K. Rowling's Harry Potter world who share a strong bond of trust and loyalty. Harry relies on Healer for guidance and protection, and Healer looks out for Harry's safety and well-being. They have an understanding of each other's strengths and weaknesses, and stand by each other in times of need. In one instance, Healer helps Harry save Draco Malfoy from death by giving him the chance to speak to his supposed niece, who turns out to be Hermione. Harry is deeply touched by Healer's kindness and his willingness to go to any lengths to protect his friend. The Weasleys also show their appreciation by surprising Draco with gifts on Christmas morning. This fandom highlights the strong relationship Harry and Healer share, as well as showcasing the power of friendship and loyalty."
-1,1065010,Frank,Harry,"Frank and Harry are two close friends featured in the Harry Potter series by J. K. Rowling. Although they are from different backgrounds, they have developed a strong bond of trust and loyalty. Despite their differences, such as Frank being a Hufflepuff student and Harry being a Gryffindor, they are both brave and loyal to each other. They enjoy embarking on adventures together and rely on each other in difficult times. Their relationship is a strong example of true friendship, demonstrating the bond that can form between two people regardless of their differences."
-2,1065010,Harry,Draco,"This summary focused on the relationship between Harry and Draco from the given fandom of Harry Potter by J. K. Rowling. Harry and Draco have a complicated relationship that has evolved over the years. Initially, Harry and Draco were enemies and Draco was one of Harry's chief tormentors at Hogwarts. However, moments of understanding between them slowly develop, and Draco eventually comes to realize that Harry is not his enemy. After Draco is shot in a Muggle London, Harry is left to care for him and contacts his family. However, it is revealed that Draco has no family left, leaving Harry with the responsibility to take care of Draco and to ensure his safety. This tragedy deepens their relationship, and Harry is determined to protect Draco in his time of need. Despite their differences, Harry and Draco's relationship is strong and they come to understand each other better."
-3,1065010,Harry,Hermione,"In this fandom, Harry and Hermione share a strong bond of loyalty and friendship. They often find themselves in difficult and trying situations, but rely on each other to make it through. Even in the darkest moments, they are always there for one another and their bond is unbreakable. Despite their differences, they are able to support and challenge each other, proving that their friendship is a powerful force."
+Harry Potter and Healer are two Aurors in J.K. Rowling's Harry Potter world who share a strong bond of trust and loyalty. Harry relies on Healer for guidance and protection, and Healer looks out for Harry's safety and well-being. They have an understanding of each other's strengths and weaknesses, and stand by each other in times of need. In one instance, Healer helps Harry save Draco Malfoy from death by giving him the chance to speak to his supposed niece, who turns out to be Hermione. Harry is deeply touched by Healer's kindness and his willingness to go to any lengths to protect his friend. The Weasleys also show their appreciation by surprising Draco with gifts on Christmas morning. This fandom highlights the strong relationship Harry and Healer share, as well as showcasing the power of friendship and loyalty.","Harry: Healer, I'm really glad you're here. I don't know what I would do without you. 
+Healer: Don't worry, Harry. I've always got your back. You know you can count on me. 
+Harry: I do, and that's what scares me sometimes. I don't want anything to happen to you because of me. 
+Healer: Harry, we are a team. We face danger together. Your safety is my priority, but I also trust in your abilities. 
+Harry: I appreciate that, Healer. You always know how to calm me down and boost my confidence. 
+Healer: That's what partners are for, Harry. We balance each other out. 
+Harry: Remember when you helped me save Draco? I never expected you to go to such lengths for me. 
+Healer: It was the right thing to do, Harry. Friendship knows no bounds. I couldn't let an innocent person die. 
+Harry: And for that, I am forever grateful. You showed me the power of love and compassion. 
+Healer: It's a lesson we can all learn, Harry. We can't fight darkness with darkness. 
+Harry: You're right, Healer. Together, we can face anything that comes our way. 
+Healer: That's the spirit, Harry. We're in this together, till the very end."
+1,1065010,Frank,Harry,"Frank and Harry are two close friends featured in the Harry Potter series by J. K. Rowling. Although they are from different backgrounds, they have developed a strong bond of trust and loyalty. Despite their differences, such as Frank being a Hufflepuff student and Harry being a Gryffindor, they are both brave and loyal to each other. They enjoy embarking on adventures together and rely on each other in difficult times. Their relationship is a strong example of true friendship, demonstrating the bond that can form between two people regardless of their differences.","Frank: Hey Harry, have you heard about the new secret passage that leads to the Forbidden Forest?
+
+Harry: No way, Frank! Are you serious? We have to check it out!
+
+Frank: Absolutely! We'll need our wands, some courage, and maybe even a pinch of Felix Felicis!
+
+Harry: Haha, you always know how to make an adventure even more exciting, Frank. Let's go!
+
+Frank: Hold on, Harry. We should bring some supplies too, just in case. I've got some Extendable Ears and a handful of Skiving Snackboxes.
+
+Harry: Brilliant idea, Frank. Those Extendable Ears will come in handy for eavesdropping, and the Skiving Snackboxes might just save our necks.
+
+Frank: Exactly, Harry. We work best as a team, always watching each other's backs. No matter what happens, we'll face it together.
+
+Harry: You're right, Frank. Our friendship has seen us through dragons, dementors, and even the Dark Lord himself. Nothing can break us apart.
+
+Frank: Cheers to that, mate. Let's create another legendary memory today, one that will be whispered in the halls of Hogwarts for years to come.
+
+Harry: Agreed, my friend. Here's to the adventures that await us and the unbreakable bond we share. Let the magic begin!"
+2,1065010,Harry,Draco,"This summary focused on the relationship between Harry and Draco from the given fandom of Harry Potter by J. K. Rowling. Harry and Draco have a complicated relationship that has evolved over the years. Initially, Harry and Draco were enemies and Draco was one of Harry's chief tormentors at Hogwarts. However, moments of understanding between them slowly develop, and Draco eventually comes to realize that Harry is not his enemy. After Draco is shot in a Muggle London, Harry is left to care for him and contacts his family. However, it is revealed that Draco has no family left, leaving Harry with the responsibility to take care of Draco and to ensure his safety. This tragedy deepens their relationship, and Harry is determined to protect Draco in his time of need. Despite their differences, Harry and Draco's relationship is strong and they come to understand each other better.","Harry: Draco, are you alright? You took quite a hit back there. Let me help you up.
+
+Draco: Save your concern, Potter. I don't need your pity. I can handle myself.
+
+Harry: It's not pity, Draco. I just don't want to see you hurt. We may never be friends, but that doesn't mean I want you dead.
+
+Draco: Hmph, you've got a funny way of showing it. Always getting in my way, making my life miserable.
+
+Harry: Maybe if you didn't constantly provoke me, we might actually get along. But that's beside the point now. You need medical attention. Can you stand?
+
+Draco: I suppose... I don't have much of a choice, do I? But don't think this changes anything, Potter. I still despise you.
+
+Harry: Fine, hate me all you want. But for now, let's get you to safety. We'll sort out our differences later.
+
+Draco: Safety? From what? My own family? They're gone, Potter. I have no one left.
+
+Harry: I'm sorry, Draco. I didn't know... But you're not alone anymore. I'll take care of you, I promise.
+
+Draco: You think I'd trust you? After all we've been through? You must be joking, Potter.
+
+Harry: Trust takes time, Draco. But we've seen each other at our lowest. We understand each other's pain. It's time we put that to use.
+
+Draco: And what if I refuse? What if I push you away like I always have?
+
+Harry: Then I'll keep pushing back. Because despite all our differences, we've come to realize that we're not so different after all.
+
+Draco: You really believe that, don't you? That we can actually find some kind of common ground?
+
+Harry: I do, Draco. And I'm willing to fight for it. Together, we can overcome anything. You're not alone anymore."
+3,1065010,Harry,Hermione,"In this fandom, Harry and Hermione share a strong bond of loyalty and friendship. They often find themselves in difficult and trying situations, but rely on each other to make it through. Even in the darkest moments, they are always there for one another and their bond is unbreakable. Despite their differences, they are able to support and challenge each other, proving that their friendship is a powerful force.","Harry: *leans against the wall, looking exhausted* Hermione, I don't know how much longer I can keep going. This mission seems impossible.
+
+Hermione: *sits down next to Harry, placing a comforting hand on his shoulder* You're not alone, Harry. We will find a way, we always do. Together.
+
+Harry: *smiles weakly* Yeah, I guess you're right. You always know how to lift my spirits, Hermione.
+
+Hermione: *laughs softly* Well, someone has to, don't they? Besides, you've done the same for me countless times. Remember the time we faced that giant troll in our first year?
+
+Harry: *chuckles* How could I forget? Can't believe we thought taking on a mountain-sized creature was a good idea.
+
+Hermione: *grins* We were so young and foolish back then. But we've grown, and our bond has only become stronger.
+
+Harry: *leans closer, resting his head on Hermione's shoulder* I'm grateful for that, Hermione. I don't know what I would do without you.
+
+Hermione: *wraps her arm around Harry, offering him comfort* And I don't know what I would do without you. We're a team, remember? We face the darkness together.
+
+Harry: *looks up at Hermione, his eyes filled with determination* You're right, Hermione. We'll face this together, just like we always have. Nothing can break our bond.
+
+Hermione: *smiles softly* That's the spirit, Harry. We're unstoppable when we're together.
+
+Harry: *stands up, renewed strength evident on his face* Let's show them what true friendship can achieve, Hermione. Our love and loyalty will triumph.
+
+Hermione: *stands up as well, a fire in her eyes* Absolutely, Harry. We'll prove that our friendship is a powerful force, capable of overcoming any adversity."

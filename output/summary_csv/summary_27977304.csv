@@ -1,7 +1,135 @@
-,fandom_id,character_1,character_2,summary
-0,27977304,Voldemort,Percy,"Although Voldemort and Percy have a neutral relationship, Voldemort is surprisingly impressed by Percy's courage and loyalty, which leads to a certain level of respect between the two. Percy is brave and defiant, willing to protect his mother from Voldemort, and this is something that Voldemort admires. Percy and Voldemort's relationship is one of admiration, understanding, and neutrality."
-1,27977304,Lily,Voldemort,"Despite their animosity, Voldemort has a deep respect for Lily and her strength and courage. He sometimes wishes he could have a family like hers and is taken aback by the love she has for her family. Though Voldemort ultimately decides to do what he must without hesitation, his admiration for Lily remains."
-2,27977304,Voldemort,Black,"This is further seen when Voldemort watches the Potters and Black in a moment of joy and contentment, and feels a pang of envy for what he could have had. Voldemort has a deep admiration for Black's fighting style and skills, and is challenged by Black's ferocity. Despite his desire to kill the Potters, Voldemort is unable to do so and ultimately decides to spare them."
-3,27977304,Salazar,Harry Potter,"for one another, and while Salazar was wary of Harry's power, he also had a deep admiration for him."
-4,27977304,Sirius,James,"The relationship between Sirius and James is one of loyalty and camaraderie. They have each other's backs even when the situation seems dire. They are willing to put their own lives at risk to protect those that they care about, and they understand that they can rely on the other. This bond of friendship is strong and enduring, and it helps them to face any challenge that comes their way."
-5,27977304,Voldemort,Malfoy,"Voldemort and Malfoy have a complex relationship. Voldemort respects the loyalty and courage of the Black family, which he sees in Bellatrix, Walburga, and Sirius Black. He also appreciates Malfoy's skills as a Death Eater and acknowledges his strength and courage. At the same time, Voldemort expects loyalty and obedience from Malfoy. He is both mentor and oppressor, friend and foe to Malfoy. Despite their differences, there is a deep understanding between them that binds them together in an unbreakable bond."
+,fandom_id,character_1,character_2,summary,prompt
+0,27977304,Voldemort,Percy,"Although Voldemort and Percy have a neutral relationship, Voldemort is surprisingly impressed by Percy's courage and loyalty, which leads to a certain level of respect between the two. Percy is brave and defiant, willing to protect his mother from Voldemort, and this is something that Voldemort admires. Percy and Voldemort's relationship is one of admiration, understanding, and neutrality.","Voldemort: Ah, Percy Weasley, the epitome of loyalty. Your resilience is quite impressive, young man.
+
+Percy: (standing tall) I will never bow down to you, Voldemort. My loyalty lies with my family and those I care for.
+
+Voldemort: (smirking) Defiant until the very end, just like your father. I can appreciate that. Your courage is not something I often encounter.
+
+Percy: (firmly) You will never lay a finger on my mother. I will protect her with everything I have.
+
+Voldemort: (raising an eyebrow) Such determination, even in the face of danger. Your loyalty is commendable, Percy Weasley.
+
+Percy: I will fight to my last breath to ensure that your dark reign doesn't touch the lives of those I love.
+
+Voldemort: (chuckling) Admirable, Percy. It seems you possess a fire within you that I find intriguing.
+
+Percy: (glaring) Do not mistake my defiance for admiration, Voldemort. I will never embrace your ideology.
+
+Voldemort: (nodding) I do not expect you to, Percy. Our relationship is one of understanding and neutrality, fueled by your unwavering loyalty.
+
+Percy: (determined) I will never be swayed by your promises of power. My allegiance is to the side of light, always.
+
+Voldemort: (smiling) And so it shall remain, Percy Weasley. Your courage, loyalty, and unwavering defiance make you an adversary worth respecting."
+1,27977304,Lily,Voldemort,"Despite their animosity, Voldemort has a deep respect for Lily and her strength and courage. He sometimes wishes he could have a family like hers and is taken aback by the love she has for her family. Though Voldemort ultimately decides to do what he must without hesitation, his admiration for Lily remains.","Lily: Voldemort, I have come to offer you a chance at redemption. Despite your darkness, I see a glimmer of admiration within you.
+
+Voldemort: Redemption? Ha! You really think I could be swayed by your pathetic words, Lily Evans? You underestimate the power of darkness that flows through my veins.
+
+Lily: It is not weakness that I see in you, but a longing for something more. You envy the love and strength of a family, don't you? That's why you spare me and my son.
+
+Voldemort: Spare you? It was merely a strategic move, nothing more. Your courage astounds me, Lily, but do not mistake it for affection. I am incapable of such emotions.
+
+Lily: Perhaps, deep down, you wish for more than power and immortality. Imagine a life where you could embrace love and compassion, just as I do with my family.
+
+Voldemort: Love and compassion are frivolous sentiments that have no place in my world. I have dedicated my life to achieving greatness, and I will not be deterred by such fantasies.
+
+Lily: Voldemort, I see through your facade. You can deny it all you want, but there's a part of you that longs for the love you never had. You're afraid of giving in to it.
+
+Voldemort: You speak nonsense, Lily. I am feared by all, and that is all I need. Your words hold no power over me.
+
+Lily: Fear may be a source of strength, but it is not the only source. True strength lies in the ability to love and protect those you care for. You have yet to understand that.
+
+Voldemort: Enough! Your rhetoric will not sway me! I shall do what I must without hesitation, but I cannot deny the admiration I hold for your unwavering love for your family.
+
+Lily: Perhaps someday, Voldemort, you will see that love can conquer even the darkest of hearts. Until then, I will continue to fight for what I believe in, for the power of love is unstoppable.
+
+Voldemort: We shall see, Lily Evans. But mark my words, I will not be swayed. Our paths may never align, but your strength will forever be etched in my memory."
+2,27977304,Voldemort,Black,"This is further seen when Voldemort watches the Potters and Black in a moment of joy and contentment, and feels a pang of envy for what he could have had. Voldemort has a deep admiration for Black's fighting style and skills, and is challenged by Black's ferocity. Despite his desire to kill the Potters, Voldemort is unable to do so and ultimately decides to spare them.","Voldemort: Ah, Black, my worthy adversary. It seems even in moments of joy, my envy of your contentment grows stronger.
+
+Black: Voldemort, the Dark Lord himself, feeling envy? How pitiful. But I must admit, your admiration for my fighting style is quite flattering.
+
+Voldemort: Flattering indeed, Black. Your ferocity in battle always challenges me. You possess a rare combination of skill and determination.
+
+Black: And yet, here we stand, facing each other once more. You desire to kill the Potters, but something within you prevents you from doing so. Is it fear, Voldemort?
+
+Voldemort: Fear? Never, Black! It is a calculation, a decision based on power. Killing them now would not bring me the satisfaction I seek.
+
+Black: I see through your lies, Voldemort. Deep down, you envy the love and happiness they share. It is something you could never have obtained.
+
+Voldemort: Love is a weakness, Black. It blinds one to the true potential of power. But perhaps... perhaps there is more to it than I have realized.
+
+Black: Do not underestimate the power of love, Voldemort. It can grant strength and resilience beyond imagination. You would do well to remember that.
+
+Voldemort: Enough, Black! This conversation has taken a turn I did not anticipate. You may have spared the Potters, but our battle is far from over.
+
+Black: Indeed, Voldemort. Our paths will cross again, and when they do, I will be ready to unleash my ferocity upon you once more.
+
+Voldemort: Until then, Black. Until then. Remember, I am the Dark Lord, and no amount of love or happiness can protect you from my wrath."
+3,27977304,Salazar,Harry Potter,"for one another, and while Salazar was wary of Harry's power, he also had a deep admiration for him.","Salazar: *leaning against a pillar, his eyes narrowed* So, Potter, you believe you possess the power the others speak of?
+
+Harry: *standing tall, chin raised* I do, Salazar. The power of love and friendship, the power to protect those I care about.
+
+Salazar: *smirking* Love and friendship? Such weakness. But there's an undeniable strength within you, boy. I see it in your eyes.
+
+Harry: *arching an eyebrow* You may doubt it, but that strength has brought me this far. It's what defeated Voldemort.
+
+Salazar: *pausing, his expression softening* Voldemort... the Dark Lord. In my time, he was a mere whisper, a shadow. You've faced him, and lived to tell the tale.
+
+Harry: *nodding solemnly* It hasn't been easy, but I've had help along the way. Friends, mentors, people who believed in me.
+
+Salazar: *leaning closer, his voice low* To have people believe in you, to fight for you... that is a rare gift, Harry Potter. Remember that.
+
+Harry: *smiling gratefully* I do, Salazar. And I won't let their faith in me go to waste. I'll continue fighting for what's right.
+
+Salazar: *admiration gleaming in his eyes* A noble goal, indeed. You possess a courage that surpasses most wizards, including those of my time.
+
+Harry: *humbling, but determined* I've learned from the mistakes of the past, from my own mistakes. I want a better world, for everyone.
+
+Salazar: *smirking again, but this time with a hint of pride* Perhaps there is hope for this world yet. You have challenged my notions, Potter.
+
+Harry: *extending a hand* Let's work together then, Salazar. To make the world a better place, to ensure that darkness never prevails.
+
+Salazar: *studying Harry's hand, then shaking it firmly* Very well, Harry Potter. Consider me your ally, for now. Let's see what we can achieve together."
+4,27977304,Sirius,James,"The relationship between Sirius and James is one of loyalty and camaraderie. They have each other's backs even when the situation seems dire. They are willing to put their own lives at risk to protect those that they care about, and they understand that they can rely on the other. This bond of friendship is strong and enduring, and it helps them to face any challenge that comes their way.","Sirius: ""Prongs, I've got a plan. We need to distract the Death Eaters while the others escape. I'll transform into Padfoot and lead them away.""
+
+James: ""Sirius, are you insane? You can't just sacrifice yourself like that!""
+
+Sirius: ""Hey, we always said we'd do anything for the ones we love, right? This is our chance to prove it. Besides, I know you'll keep everyone safe.""
+
+James: *pauses, gripping his wand tightly* ""Alright, Padfoot. But promise me you'll come back.""
+
+Sirius: *smirks* ""You know me, Prongs. I always come back.""
+
+James: *nods, a determined glint in his eyes* ""Alright then. Let's do this, together.""
+
+Sirius: *transforms into a massive black dog, barking loudly* ""Follow me, you slimy Death Eaters! Come and get me!""
+
+James: *standing his ground, casting protective spells* ""Get ready, everyone! We've got Sirius leading them away, now let's make our escape.""
+
+Sirius: *running through the forest, dodging curses* ""Can't catch me, you wretched bastards! Prongs and the others are safe thanks to me!""
+
+James: *watching Sirius from a distance, a mix of worry and pride* ""He's doing it, just like he said he would. Stay safe, Padfoot.""
+
+Sirius: *leading the Death Eaters further away, his heart pounding* ""Prongs, remember, I'll come back. We're in this together, till the end.""
+
+James: *whispering to himself* ""Till the end, Padfoot. Till the end."""
+5,27977304,Voldemort,Malfoy,"Voldemort and Malfoy have a complex relationship. Voldemort respects the loyalty and courage of the Black family, which he sees in Bellatrix, Walburga, and Sirius Black. He also appreciates Malfoy's skills as a Death Eater and acknowledges his strength and courage. At the same time, Voldemort expects loyalty and obedience from Malfoy. He is both mentor and oppressor, friend and foe to Malfoy. Despite their differences, there is a deep understanding between them that binds them together in an unbreakable bond.","As the moonlight shrouded the abandoned manor, Voldemort, his crimson eyes glimmering with power, stood before Malfoy, his faithful Death Eater. The air around them crackled with tension, a silent exchange of loyalty and dominance.
+
+Voldemort, his voice dripping with both admiration and sternness, spoke first. ""Malfoy, you have proven yourself worthy of the Dark Lord's trust. Your cunning and resourcefulness have not gone unnoticed. The Black blood runs through your veins, and with it, the strength of your ancestors.""
+
+Malfoy's pale face remained impassive, his silver eyes glinting with a mix of pride and fear. ""My Lord, I am grateful for your praise. I will forever be loyal to you and our cause.""
+
+A sinister smile curved upon Voldemort's lips, his long fingers tracing the intricate serpent-like pattern on his wand. ""Loyalty, my dear Malfoy, is a quality I hold in high regard. The Black family has displayed unwavering devotion, similar to your own. We are bound by our shared goal to eradicate the weak and claim our rightful place.""
+
+Malfoy swallowed hard, feeling the weight of Voldemort's expectations on his young shoulders. ""I understand, my Lord. I will not falter. I will prove my loyalty in every action I take.""
+
+Voldemort's voice grew softer, almost fatherly, as he placed a hand on Malfoy's trembling shoulder. ""Remember, Draco, courage can sometimes be found in the most unexpected places. Let your bloodline fuel the fire within you. Rise to the occasion, and you shall be rewarded.""
+
+Malfoy nodded, feeling an odd mixture of fear and comfort at the touch of his mentor. He dared not question Voldemort's intentions; his eyes held an unspoken understanding that bound them together, for better or worse.
+
+The Dark Lord stepped back, his gaze piercing through Malfoy's soul. ""Go now, my faithful servant. Fulfill your role without hesitation. The fate of our world rests upon your shoulders. Bring me the victory I seek.""
+
+Malfoy bowed deeply, his blonde hair falling across his face like a veil of loyalty. ""Yes, my Lord. I shall not fail you.""
+
+As Malfoy turned to leave, Voldemort's voice echoed through the empty corridors, filled with a chilling finality. ""Remember, Draco, should you falter, the consequences will be dire. But should you prove yourself, unimaginable power and glory shall be yours.""
+
+And with those words lingering in the air, Malfoy ventured forth, caught between the admiration and terror that Voldemort inspired. Their complex relationship forged by blood, loyalty, and the darkness that thrived within their souls, bound them in an unyielding bond, forever entangled in the web of destiny."

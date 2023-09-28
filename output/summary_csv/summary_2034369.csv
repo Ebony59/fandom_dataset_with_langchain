@@ -1,4 +1,60 @@
-,fandom_id,character_1,character_2,summary
-0,2034369,Harry,Dumbledore,"The relationship between Harry Potter and Albus Dumbledore in J. K. Rowling's Harry Potter series is a complex one. While Dumbledore is a mentor and guide to Harry, their relationship is not without its difficulties. Harry is often frustrated by Dumbledore's refusal to share key information with him, as well as his tendency to manipulate and control him. On the other hand, Dumbledore's love and care for Harry can be seen in his attempts to protect him from the dangers of the wizarding world and his willingness to entrust Harry with the task of defeating Voldemort. Ultimately, despite the difficulties that arise from their relationship, Harry and Dumbledore's bond of trust and loyalty is strong, and remains an integral part of the series."
-1,2034369,Harry,Dumbledore,"The relationship between Harry Potter and Albus Dumbledore in J. K. Rowling's Harry Potter series is a complex one. While Dumbledore is a mentor and guide to Harry, their relationship is not without its difficulties. Harry is often frustrated by Dumbledore's refusal to share key information with him, as well as his tendency to manipulate and control him. On the other hand, Dumbledore's love and care for Harry can be seen in his attempts to protect him from the dangers of the wizarding world and his willingness to entrust Harry with the task of defeating Voldemort. Ultimately, despite the difficulties that arise from their relationship, Harry and Dumbledore's bond of trust and loyalty is strong, and remains an integral part of the series."
-2,2034369,Harry,Hermione,"Despite all the dangers they face, Harry and Hermione's bond never wavers and they are always willing to risk their lives for each other. When the Dark Lord was defeated, Harry and Hermione were left alone, and it was then that Harry revealed his true feelings for her. Although Ron had betrayed Harry, Harry and Hermione's love and friendship was strong enough to survive the toughest of times, and in the end, Harry was able to find true happiness and peace with Hermione by his side."
+,fandom_id,character_1,character_2,summary,prompt
+0,2034369,Harry,Dumbledore,"The relationship between Harry Potter and Albus Dumbledore in J. K. Rowling's Harry Potter series is a complex one. While Dumbledore is a mentor and guide to Harry, their relationship is not without its difficulties. Harry is often frustrated by Dumbledore's refusal to share key information with him, as well as his tendency to manipulate and control him. On the other hand, Dumbledore's love and care for Harry can be seen in his attempts to protect him from the dangers of the wizarding world and his willingness to entrust Harry with the task of defeating Voldemort. Ultimately, despite the difficulties that arise from their relationship, Harry and Dumbledore's bond of trust and loyalty is strong, and remains an integral part of the series.","Harry: Professor Dumbledore, I can't understand why you won't tell me everything! I feel like I'm in the dark, and I deserve to know.
+
+Dumbledore: My dear Harry, knowledge is a powerful thing, and sometimes it must be kept hidden for the greater good. Trust that I have your best interests at heart.
+
+Harry: But Professor, it feels like you're manipulating me, pulling the strings behind the scenes. I want to make my own choices, not be a pawn in your game.
+
+Dumbledore: Ah, Harry, I assure you, I only guide you on the path that will lead to victory. You possess incredible strength and courage, but you must learn to accept help when it is offered.
+
+Harry: I understand that, Professor, but I just wish you would trust me enough to confide in me. We could face these challenges together, as equals.
+
+Dumbledore: Harry, my love for you is immense, but I must protect you from the weight of the knowledge that I bear. There are things you are not yet ready to comprehend.
+
+Harry: I appreciate your concern, Professor, but I can handle it. I've faced danger countless times before, and I've always come out stronger.
+
+Dumbledore: You have indeed shown great resilience, Harry. But defeating Voldemort requires more than just strength. It requires wit, strategy, and sacrifice. I cannot risk losing you.
+
+Harry: I understand, Professor. I know you believe in me, and I'm grateful for that. I'll trust your judgment and follow your guidance, even when I don't fully understand.
+
+Dumbledore: That is the mark of a true hero, Harry. Your unwavering loyalty and trust will be the key to our success. Together, we shall overcome any obstacle that comes our way.
+
+Harry: Thank you, Professor Dumbledore. I may not always see eye to eye with you, but I know deep down that you are fighting for the greater good. I won't let you down."
+1,2034369,Harry,Dumbledore,"The relationship between Harry Potter and Albus Dumbledore in J. K. Rowling's Harry Potter series is a complex one. While Dumbledore is a mentor and guide to Harry, their relationship is not without its difficulties. Harry is often frustrated by Dumbledore's refusal to share key information with him, as well as his tendency to manipulate and control him. On the other hand, Dumbledore's love and care for Harry can be seen in his attempts to protect him from the dangers of the wizarding world and his willingness to entrust Harry with the task of defeating Voldemort. Ultimately, despite the difficulties that arise from their relationship, Harry and Dumbledore's bond of trust and loyalty is strong, and remains an integral part of the series.","Harry: Professor Dumbledore, I can't understand why you won't tell me everything! I feel like I'm in the dark, and I deserve to know.
+
+Dumbledore: My dear Harry, knowledge is a powerful thing, and sometimes it must be kept hidden for the greater good. Trust that I have your best interests at heart.
+
+Harry: But Professor, it feels like you're manipulating me, pulling the strings behind the scenes. I want to make my own choices, not be a pawn in your game.
+
+Dumbledore: Ah, Harry, I assure you, I only guide you on the path that will lead to victory. You possess incredible strength and courage, but you must learn to accept help when it is offered.
+
+Harry: I understand that, Professor, but I just wish you would trust me enough to confide in me. We could face these challenges together, as equals.
+
+Dumbledore: Harry, my love for you is immense, but I must protect you from the weight of the knowledge that I bear. There are things you are not yet ready to comprehend.
+
+Harry: I appreciate your concern, Professor, but I can handle it. I've faced danger countless times before, and I've always come out stronger.
+
+Dumbledore: You have indeed shown great resilience, Harry. But defeating Voldemort requires more than just strength. It requires wit, strategy, and sacrifice. I cannot risk losing you.
+
+Harry: I understand, Professor. I know you believe in me, and I'm grateful for that. I'll trust your judgment and follow your guidance, even when I don't fully understand.
+
+Dumbledore: That is the mark of a true hero, Harry. Your unwavering loyalty and trust will be the key to our success. Together, we shall overcome any obstacle that comes our way.
+
+Harry: Thank you, Professor Dumbledore. I may not always see eye to eye with you, but I know deep down that you are fighting for the greater good. I won't let you down."
+2,2034369,Harry,Hermione,"Despite all the dangers they face, Harry and Hermione's bond never wavers and they are always willing to risk their lives for each other. When the Dark Lord was defeated, Harry and Hermione were left alone, and it was then that Harry revealed his true feelings for her. Although Ron had betrayed Harry, Harry and Hermione's love and friendship was strong enough to survive the toughest of times, and in the end, Harry was able to find true happiness and peace with Hermione by his side.","Harry: *pacing back and forth, worry etched on his face* Hermione, we've been through so much together. I can't imagine going into battle without you by my side.
+
+Hermione: *holds Harry's hand, her eyes filled with determination* Harry, we've faced the darkest of times together, and we've always come out stronger. I won't let anything tear us apart, not even Voldemort.
+
+Harry: *pauses, taking a deep breath* Hermione, there's something I've been wanting to tell you for a while now. I can't hold it in any longer. *his voice trembles with emotion* I love you, Hermione. I've always loved you.
+
+Hermione: *her eyes widen in surprise, her heart pounding* Harry, I... I never knew you felt this way. Our friendship has always meant the world to me, and I don't want anything to change that. But... *she blushes* I think I love you too.
+
+Harry: *smiles, a mix of relief and happiness flooding his features* Hermione, I've dreamed of this moment for so long. You are my light in the darkest of times, my strength when I am weak. Together, we can conquer anything that comes our way.
+
+Hermione: *grabs Harry's hand tightly, her voice filled with determination* Harry, I've always believed in us. Through all the trials and tribulations, our bond has never wavered. I am ready to face whatever dangers lie ahead, as long as we face them together.
+
+Harry: *leans in, his eyes searching Hermione's for confirmation* Hermione, will you... Will you be my partner, not just in battles, but in life? I can't imagine a future without you.
+
+Hermione: *tears glisten in her eyes as she nods, a wide smile spreading across her face* Harry, I will be by your side through everything. Together, we will find true happiness and peace. Our love and friendship will withstand the toughest of times.
+
+Harry: *pulls Hermione into a tight embrace, feeling a sense of completeness* Hermione, thank you for choosing me. With you, I am whole."

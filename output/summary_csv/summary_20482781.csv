@@ -1,10 +1,172 @@
-,fandom_id,character_1,character_2,summary
-0,20482781,Charlie,Mum,"The summary follows the story of Charlie and Mum from the Harry Potter fandom by J.K. Rowling. Charlie and his Mum share a close bond, and his Mum is always looking out for him and protecting him from harm. When Charlie comes out as a bisexual, his Mum is initially taken aback but eventually accepts and embraces him for who he is, offering him unconditional love and support. Charlie is relieved and thankful for his family's support, and the story ends with the family offering their congratulations. Their relationship serves as a reminder of the power of family and the strength of love."
-1,20482781,Fred,Molly,"This summary is about the relationship between Fred and Molly Weasley in the Harry Potter fandom by J.K. Rowling. Fred is portrayed as a brave, independent, and mischievous young man who is often seen as the leader of the Weasley family. Molly is the matriarch of the family and is seen as a nurturing and caring mother who always stands up for her children. Fred and Molly share a special bond that is both loving and supportive, and their relationship is one of the most important ones in the Harry Potter fandom. Fred and Molly's relationship is often seen when they take their family to Pride, demonstrating their support for the LGBTQ+ community, and when they protect and care for the rest of the family, showing just how much they love each other."
-2,20482781,Oliver,Percy,"In the fandom, the relationship between Oliver and Percy is one of admiration and friendship. They are supportive of each other and understand the importance of standing by one another. They have an unbreakable bond that is built on trust and loyalty. They are both seen as brave and courageous in the face of danger. Their friendship is a testament to the power of companionship and the strength of family ties."
-3,20482781,Percy,Ginny,"Percy and Ginny have a strong bond based on their shared experiences and understanding of each other. They are each other's confidants, and their relationship is a testament to the strength of family."
-4,20482781,Fleur,Bill,"Even after the war is over, Fleur and Bill maintain a strong relationship, supporting each other and their family through difficult times. Fleur is the first to accept and support Bill when he comes out to his family as asexual and aromantic, which is a shock to everyone. The rest of the Weasley family, despite their initial surprise, ultimately accept and love Bill for who he is, showing the power of family and understanding. In the end, Fleur and Bill's relationship is strengthened, showing that love and loyalty can help people overcome their differences."
-5,20482781,Bill,Molly,The two have a deep bond that is rooted in loyalty and unconditional love. They show immense support for each other and always strive to make sure the other one is safe and happy. They are a strong example of a loving relationship in the Harry Potter fandom.
-6,20482781,Bill,Molly,The two have a deep bond that is rooted in loyalty and unconditional love. They show immense support for each other and always strive to make sure the other one is safe and happy. They are a strong example of a loving relationship in the Harry Potter fandom.
-7,20482781,Luna,Ginny,"This summary focuses on the relationship between Luna and Ginny, as well as the personalities of Luna and Ginny. In the fandom of Harry Potter by J.K. Rowling, Luna and Ginny have a strong bond as family friends. Luna is an eccentric, dreamy girl who is often seen as an outsider. She is highly imaginative and often speaks her mind, even when it is unpopular. Ginny is a more down-to-earth character who is brave, loyal, and fiercely protective of her loved ones. Despite their differences, the two become close friends and support each other through difficult times. They often lean on each other for advice and understanding, and their friendship allows them to grow and learn from one another. Together, they create a powerful bond that continues to be an important part of the Harry Potter series."
-8,20482781,Molly,Arthur,"Molly and Arthur are both accepting and supportive of their children's choices, no matter how different they may be from their own. When their eldest son, Charlie, came out as a drag queen, Molly and Arthur showed their unconditional love and acceptance. The same can be said for when Percy revealed his relationships with two men, and Bill revealed his true identity as a bisexual man. Through it all, Molly and Arthur have remained a rock for their children, showing that family is always there to support you through the years."
+,fandom_id,character_1,character_2,summary,prompt
+0,20482781,Charlie,Mum,"The summary follows the story of Charlie and Mum from the Harry Potter fandom by J.K. Rowling. Charlie and his Mum share a close bond, and his Mum is always looking out for him and protecting him from harm. When Charlie comes out as a bisexual, his Mum is initially taken aback but eventually accepts and embraces him for who he is, offering him unconditional love and support. Charlie is relieved and thankful for his family's support, and the story ends with the family offering their congratulations. Their relationship serves as a reminder of the power of family and the strength of love.","Charlie: Mum, can I talk to you about something important?
+
+Mum: Of course, Charlie. You know you can always come to me. What's on your mind?
+
+Charlie: Well, Mum, I've been meaning to tell you... I'm bisexual. I hope you can understand and accept that.
+
+Mum: (taken aback) Oh, Charlie... I wasn't expecting this. But you are my son, and I love you unconditionally. Your sexuality doesn't change that. I just want you to be happy.
+
+Charlie: (relieved) Thank you, Mum. Your love and acceptance mean the world to me. It took a lot of courage to open up about this.
+
+Mum: You're my child, Charlie. My love for you knows no bounds. I'll always be here for you, supporting you through thick and thin.
+
+Charlie: It's such a relief to hear that, Mum. I was worried about how you would react. Thank you for embracing me for who I am.
+
+Mum: Always, Charlie. You're my pride and joy, and nothing can change that. We'll face the world together, loving and supporting each other.
+
+Charlie: (teary-eyed) I'm so grateful to have you as my Mum. Your acceptance gives me the strength to be true to myself. I love you, Mum.
+
+Mum: And I love you, Charlie. Remember, family is a powerful force, and together, we can conquer anything. You are never alone in this journey.
+
+Charlie: (smiling) Thank you, Mum. Your love and support mean everything to me. I'm truly blessed to have such an amazing family.
+
+Mum: Congratulations, my dear. Embracing who you are takes great strength, and I'm proud of you. We'll celebrate this milestone as a family."
+1,20482781,Fred,Molly,"This summary is about the relationship between Fred and Molly Weasley in the Harry Potter fandom by J.K. Rowling. Fred is portrayed as a brave, independent, and mischievous young man who is often seen as the leader of the Weasley family. Molly is the matriarch of the family and is seen as a nurturing and caring mother who always stands up for her children. Fred and Molly share a special bond that is both loving and supportive, and their relationship is one of the most important ones in the Harry Potter fandom. Fred and Molly's relationship is often seen when they take their family to Pride, demonstrating their support for the LGBTQ+ community, and when they protect and care for the rest of the family, showing just how much they love each other.","Fred: Molly, are you ready for the big day? Pride is going to be incredible this year!
+
+Molly: Absolutely, Fred! I've got our matching rainbow scarves all set and the family is buzzing with excitement.
+
+Fred: You always know how to make things extra special, Mum. The twins have been plotting some mischief for the parade. We might need your motherly charm to keep them in check.
+
+Molly: Oh, dear. Those mischievous boys of ours! But I trust that they'll keep it light-hearted. We can't have any chaos at such an important event.
+
+Fred: Don't worry, Mum. We'll make sure to spread joy and love. And you know, maybe a few pranks here and there to keep the atmosphere lively!
+
+Molly: You certainly inherited your mischievous streak from your father. But, my brave boy, don't forget the true significance of today - showing our support and acceptance for everyone in the LGBTQ+ community.
+
+Fred: You're right, Mum. This day is about love and understanding. We'll make sure that message shines through our smiles and colorful attire.
+
+Molly: I'm proud of you, Fred. Your heart is as big and brave as ever. Just remember, we're here for each other, always. Together, we can make a difference.
+
+Fred: Thanks, Mum. I love you, and I'm grateful for the love and support you've given me. Let's go make some magical memories at Pride!
+
+Molly: I love you too, my brave boy. Let's show the world what the Weasleys are made of!"
+2,20482781,Oliver,Percy,"In the fandom, the relationship between Oliver and Percy is one of admiration and friendship. They are supportive of each other and understand the importance of standing by one another. They have an unbreakable bond that is built on trust and loyalty. They are both seen as brave and courageous in the face of danger. Their friendship is a testament to the power of companionship and the strength of family ties.","Oliver: Gosh, Percy, I must say, your dedication to study is truly inspiring. You've always been the prodigy of our group.
+
+Percy: Well, Oliver, I cannot deny that your unwavering determination on the Quidditch pitch is equally admirable. You're the epitome of bravery.
+
+Oliver: Thank you, Percy. But let's not forget how you always support me from the sidelines, cheering the loudest. Your unwavering loyalty means the world to me.
+
+Percy: Oliver, my friend, you've always had my back as well. Your trust in me has given me the confidence to pursue my dreams.
+
+Oliver: And what a formidable team we make, Percy. Our bond is unbreakable, forged on trust and loyalty. Our friendship is a testament to the power of companionship.
+
+Percy: Indeed, Oliver. We understand the importance of standing by one another, no matter the circumstances. Our strong ties have carried us through countless adventures.
+
+Oliver: And it is precisely our bravery and courage that have seen us through those dangerous moments. We are true warriors in the face of danger.
+
+Percy: Absolutely, Oliver. We know the value of family ties as well. Our friendship is built on the strength we find in each other and the unwavering support of our loved ones.
+
+Oliver: We are truly lucky to have such a bond, Percy. Our admiration for one another fuels our growth and pushes us to strive for greatness.
+
+Percy: It is an honor to call you my friend, Oliver. Let us continue to inspire and support each other, showing the world the power of our unbreakable bond."
+3,20482781,Percy,Ginny,"Percy and Ginny have a strong bond based on their shared experiences and understanding of each other. They are each other's confidants, and their relationship is a testament to the strength of family.","Percy: *sighs heavily* Ginny, I don't know what to do anymore. The Ministry is getting more demanding by the day. 
+Ginny: *placing a comforting hand on Percy's shoulder* I understand, Percy. The pressure can be overwhelming. But remember, we're in this together. 
+Percy: *turns to face Ginny, a hint of desperation in his eyes* It's just... I've always wanted to make a difference, but lately, it feels like I'm drowning in paperwork. 
+Ginny: *smiling softly* Percy, you're doing more than you realize. You're a voice of reason in a chaotic world. 
+Percy: *grateful, yet unsure* You really think so, Ginny? Sometimes I feel like I'm betraying our family by working for the Ministry. 
+Ginny: *firmly* Percy Weasley, you could never betray us. We understand your motives, your ambitions. We're proud of you, no matter what. 
+Percy: *teary-eyed* Thank you, Ginny. Your faith in me means the world. You've always been my rock, my confidant. 
+Ginny: *hugging Percy tightly* And you've been mine, Percy. We're a team, remember? We've faced countless challenges together and come out stronger. 
+Percy: *sniffles* You're right, Ginny. Our bond is unbreakable. We'll navigate this storm together, just like we always have. 
+Ginny: *wipes away Percy's tears, determination gleaming in her eyes* Together, we can conquer anything. We're Weasleys, after all. 
+Percy: *smiling through his tears* Absolutely, Ginny. Love you, sis."
+4,20482781,Fleur,Bill,"Even after the war is over, Fleur and Bill maintain a strong relationship, supporting each other and their family through difficult times. Fleur is the first to accept and support Bill when he comes out to his family as asexual and aromantic, which is a shock to everyone. The rest of the Weasley family, despite their initial surprise, ultimately accept and love Bill for who he is, showing the power of family and understanding. In the end, Fleur and Bill's relationship is strengthened, showing that love and loyalty can help people overcome their differences.","Fleur: Bill, cher, come sit with me. You seem a bit distant today.
+
+Bill: Oh, Fleur, it's just been a difficult day. I've been meaning to talk to you about something that's been weighing on my mind.
+
+Fleur: Mon cher, you can tell me anything. I'm here for you, toujours.
+
+Bill: Well, you see, Fleur... I've come to realize that I'm asexual and aromantic.
+
+Fleur: (pauses, then smiles warmly) Bill, my love, you have no idea how proud I am of you for opening up to me. This changes nothing between us. I love you for who you are, not for any label. 
+
+Bill: (relieved) Fleur, you're incredible. I was worried about how everyone would react, especially my family. It means the world to me that you accept and support me.
+
+Fleur: Our family, cher, is a powerful force. We'll navigate this together. They may be surprised at first, but they love you and will come to understand. 
+
+Bill: I hope you're right, Fleur. It's just hard to imagine their reactions... 
+
+Fleur: Bill, we've faced battles, both on the outside and within ourselves. This is just another challenge. We'll get through it, just like we always have.
+
+Bill: (smiling) You're absolutely right, Fleur. We're stronger together. Thank you for being my rock.
+
+Fleur: Always, mon amour. Now, let's go to the Burrow and face this together. Our love and loyalty will shine through, and they will see the beauty of accepting one another, no matter the differences. 
+
+Bill: You're incredible, Fleur. I'm the luckiest wizard alive to have you by my side.
+
+Fleur: And I, mon cher, am equally lucky. Let us face this challenge with love in our hearts, and we'll come out stronger than ever."
+5,20482781,Bill,Molly,The two have a deep bond that is rooted in loyalty and unconditional love. They show immense support for each other and always strive to make sure the other one is safe and happy. They are a strong example of a loving relationship in the Harry Potter fandom.,"Bill: Molly, my dear, how are you today? I can't help but notice the radiant smile that adorns your face.
+
+Molly: Ah, Bill, my love. My heart swells with joy at the sound of your voice. You always know how to make me feel cherished. I am simply overjoyed by the thought of your presence.
+
+Bill: Your words warm the very depths of my soul, Molly. It is in your embrace that I find solace, and it is your love that gives me strength. Together, we are invincible.
+
+Molly: Indeed, Bill. United, we are an unstoppable force, capable of conquering any obstacle that dares come our way. Your unwavering support has always been my guiding light.
+
+Bill: And your unwavering love has always been my shield, protecting me from the troubles of the world. Molly, my heart sings with gratitude for your unwavering loyalty.
+
+Molly: My dear Bill, you have always been my rock, my anchor in the storm. Your unwavering devotion fills the very depths of my being, and I am eternally grateful.
+
+Bill: Molly, my love, let us embark on this journey together, hand in hand, facing whatever challenges lie ahead with unwavering courage and an unbreakable bond. Our love shall be our strength.
+
+Molly: Bill, my heart beats with anticipation for the adventures that await us. With our unwavering love and unyielding loyalty, we shall navigate the treacherous waters of life and emerge victorious.
+
+Bill: Molly, my love, let us toast to our unbreakable bond – a bond forged in loyalty, unconditional love, and unwavering support. Together, we are the epitome of a loving relationship, shining brightly in the Harry Potter fandom."
+6,20482781,Bill,Molly,The two have a deep bond that is rooted in loyalty and unconditional love. They show immense support for each other and always strive to make sure the other one is safe and happy. They are a strong example of a loving relationship in the Harry Potter fandom.,"Bill: Molly, my dear, how are you today? I can't help but notice the radiant smile that adorns your face.
+
+Molly: Ah, Bill, my love. My heart swells with joy at the sound of your voice. You always know how to make me feel cherished. I am simply overjoyed by the thought of your presence.
+
+Bill: Your words warm the very depths of my soul, Molly. It is in your embrace that I find solace, and it is your love that gives me strength. Together, we are invincible.
+
+Molly: Indeed, Bill. United, we are an unstoppable force, capable of conquering any obstacle that dares come our way. Your unwavering support has always been my guiding light.
+
+Bill: And your unwavering love has always been my shield, protecting me from the troubles of the world. Molly, my heart sings with gratitude for your unwavering loyalty.
+
+Molly: My dear Bill, you have always been my rock, my anchor in the storm. Your unwavering devotion fills the very depths of my being, and I am eternally grateful.
+
+Bill: Molly, my love, let us embark on this journey together, hand in hand, facing whatever challenges lie ahead with unwavering courage and an unbreakable bond. Our love shall be our strength.
+
+Molly: Bill, my heart beats with anticipation for the adventures that await us. With our unwavering love and unyielding loyalty, we shall navigate the treacherous waters of life and emerge victorious.
+
+Bill: Molly, my love, let us toast to our unbreakable bond – a bond forged in loyalty, unconditional love, and unwavering support. Together, we are the epitome of a loving relationship, shining brightly in the Harry Potter fandom."
+7,20482781,Luna,Ginny,"This summary focuses on the relationship between Luna and Ginny, as well as the personalities of Luna and Ginny. In the fandom of Harry Potter by J.K. Rowling, Luna and Ginny have a strong bond as family friends. Luna is an eccentric, dreamy girl who is often seen as an outsider. She is highly imaginative and often speaks her mind, even when it is unpopular. Ginny is a more down-to-earth character who is brave, loyal, and fiercely protective of her loved ones. Despite their differences, the two become close friends and support each other through difficult times. They often lean on each other for advice and understanding, and their friendship allows them to grow and learn from one another. Together, they create a powerful bond that continues to be an important part of the Harry Potter series.","Luna: *skips over to Ginny with a dreamy expression and a wand-shaped necklace* Oh, hello Ginny! Isn't it a lovely day for Nargle spotting?
+Ginny: *smirks and rolls her eyes playfully* Luna, you never cease to amaze me with your unique interests. But sure, why not? Let's go on a Nargle adventure!
+Luna: *grasps Ginny's hand and starts leading her towards the Forbidden Forest* I knew you'd understand, Ginny. You're always up for a bit of mischief and adventure, just like me.
+Ginny: *laughs* Absolutely, Luna. Life would be boring without a little mischief. But remember, we have to be careful not to get caught!
+Luna: *gazes up at the trees, lost in thought* You're right, Ginny. We must be cautious like Thestrals, invisible to the eyes of those who don't believe in the extraordinary.
+Ginny: *puts a protective arm around Luna* You're my extraordinary friend, Luna. I'll always believe in you and your unique perspective on the world.
+Luna: *smiles warmly at Ginny* And I'll always be here to remind you that bravery comes in many forms, Ginny. Your loyalty and protection mean the world to me.
+Ginny: *feels a surge of gratitude and returns Luna's smile* We're quite the pair, aren't we? A fiercely protective lioness and a whimsical dreamer walking hand in hand through Hogwarts.
+Luna: *nods, her eyes sparkling* Like the stars in the night sky, we may be different, but together we create a constellation of strength, support, and unwavering friendship.
+Ginny: *squeezes Luna's hand gently* That's a beautiful way to put it, Luna. We may not always fit in, but as long as we have each other, we're unstoppable.
+Luna: *sighs contentedly* Yes, Ginny, our bond and understanding are even stronger than thestrals flying freely under the moonlit sky. And that's pure magic, isn't it?"
+8,20482781,Molly,Arthur,"Molly and Arthur are both accepting and supportive of their children's choices, no matter how different they may be from their own. When their eldest son, Charlie, came out as a drag queen, Molly and Arthur showed their unconditional love and acceptance. The same can be said for when Percy revealed his relationships with two men, and Bill revealed his true identity as a bisexual man. Through it all, Molly and Arthur have remained a rock for their children, showing that family is always there to support you through the years.","Molly: *knocks on the door of Arthur's study* Darling, do you have a moment?
+
+Arthur: *looks up from his tinkering with a Muggle gadget* Of course, Molly dear. What's on your mind?
+
+Molly: *takes a deep breath* It's about Charlie, love. He came to me today, confiding in me about something important.
+
+Arthur: *pauses, concern etching his face* And what did he say, Molly?
+
+Molly: *grinning proudly* Our Charlie, Arthur, our son – he told me he's a drag queen! Can you believe it?
+
+Arthur: *smiling widely* Molly, that's marvelous! Our Charlie continues to surprise us, doesn't he? I couldn't be more proud of him for being true to himself.
+
+Molly: *teary-eyed* Neither could I, Arthur. It's that unwavering love and acceptance we've instilled in our children that allows them to be who they truly are.
+
+Arthur: Precisely, my love. *reaches out to hold Molly's hand* And speaking of acceptance, Percy just told me something too. He's seeing two wonderful men – oh, the joy in his eyes!
+
+Molly: *gasps* Oh, Arthur! Our dear Percy has found love and happiness! How fortunate he is, and how fortunate we are to have raised children who embrace their own identities fearlessly.
+
+Arthur: Indeed, Molly. And to think, our Bill recently confided in me about his own journey. He's fluid - identifies as a bisexual. Can you imagine the bravery it took for him to share that with us?
+
+Molly: *squeezes Arthur's hand* Our children have faced challenges, but they've also been surrounded by a family that loves them unconditionally. It's been our privilege to be that rock for them.
+
+Arthur: Absolutely, Molly. No matter their choices or the paths they take, our love for them and our support will always remain steadfast. Family is the foundation that guides them, through the highs and lows.
+
+Molly: Our family is a testament to that, Arthur. Our love is the magic that binds us; it's what helps our children soar and find their true selves. I wouldn't trade it for anything in the world.
+
+Arthur: Nor would I, Molly. *leans in and kisses her forehead* We've created a haven where acceptance and support flourish. Our love will always be their safe harbor, no matter what seas they navigate.
+
+Molly: *rests her head on Arthur's shoulder, a contented smile gracing her lips* Together, we've built a legacy of love, Arthur. And through it all, we'll show them that our hearts are eternally theirs."

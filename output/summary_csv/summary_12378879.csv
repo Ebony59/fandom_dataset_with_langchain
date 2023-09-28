@@ -1,8 +1,204 @@
-,fandom_id,character_1,character_2,summary
-0,12378879,Hermione,Fred,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships."
-1,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships."
-2,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships."
-3,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships."
-4,12378879,Hermione,Fred,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships."
-5,12378879,Hermione,Fred,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships."
-6,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships."
+,fandom_id,character_1,character_2,summary,prompt
+0,12378879,Hermione,Fred,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships.","Hermione: *typing furiously in the library* Ugh, I can't believe I still haven't found the right spell for this potions essay.
+
+Fred: *sauntering over with a mischievous smile* Need some help, Hermione? You know, I happen to be an expert in the art of mischief.
+
+Hermione: *rolls her eyes playfully* Oh, I'm sure you are, Fred. But I need serious help, not tricks.
+
+Fred: *grinning* Serious help, you say? Well, lucky for you, I happen to know the secret ingredient to the perfect potion essay - a generous amount of jokester charm.
+
+Hermione: *laughs* I highly doubt that, but I suppose you can give it a shot. Just don't distract me too much.
+
+Fred: *leans in closer with a twinkle in his eye* Distraction is my middle name, Hermione. But don't fret, I promise to keep it to a bare minimum.
+
+Hermione: *gives him a skeptical look* Somehow I doubt that as well. But fine, let's see what you've got.
+
+Fred: *pulls out a fake quill, sending a shower of sparks into the air* Now, that's what I call a captivating introduction!
+
+Hermione: *laughs uncontrollably* Fred Weasley, you are absolutely incorrigible!
+
+Fred: *smirks proudly* Incorrigibly charming, you mean.
+
+Hermione: *locks eyes with him, her laughter fading into a soft smile* You know, sometimes your mischievous nature surprises me. But it's also what makes you so irresistible.
+
+Fred: *gently brushes a strand of hair behind her ear* And your brilliance and beauty never cease to amaze me, Hermione. I'd do anything to keep that smile on your face.
+
+Hermione: *blushing slightly, she leans closer to him* Well then, maybe you could start with a kiss?
+
+Fred: *grinning, he pulls her closer and places a gentle kiss on her lips* Consider it done, my brilliant and beautiful Hermione.
+
+Their laughter and teasing banter may have defined their friendship, but in that moment, Hermione and Fred discovered a deeper connection that brought them even closer."
+1,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships.","Hermione: *typing furiously in the library* Ugh, I can't believe I still haven't found the right spell for this potions essay.
+
+Fred: *sauntering over with a mischievous smile* Need some help, Hermione? You know, I happen to be an expert in the art of mischief.
+
+Hermione: *rolls her eyes playfully* Oh, I'm sure you are, Fred. But I need serious help, not tricks.
+
+Fred: *grinning* Serious help, you say? Well, lucky for you, I happen to know the secret ingredient to the perfect potion essay - a generous amount of jokester charm.
+
+Hermione: *laughs* I highly doubt that, but I suppose you can give it a shot. Just don't distract me too much.
+
+Fred: *leans in closer with a twinkle in his eye* Distraction is my middle name, Hermione. But don't fret, I promise to keep it to a bare minimum.
+
+Hermione: *gives him a skeptical look* Somehow I doubt that as well. But fine, let's see what you've got.
+
+Fred: *pulls out a fake quill, sending a shower of sparks into the air* Now, that's what I call a captivating introduction!
+
+Hermione: *laughs uncontrollably* Fred Weasley, you are absolutely incorrigible!
+
+Fred: *smirks proudly* Incorrigibly charming, you mean.
+
+Hermione: *locks eyes with him, her laughter fading into a soft smile* You know, sometimes your mischievous nature surprises me. But it's also what makes you so irresistible.
+
+Fred: *gently brushes a strand of hair behind her ear* And your brilliance and beauty never cease to amaze me, Hermione. I'd do anything to keep that smile on your face.
+
+Hermione: *blushing slightly, she leans closer to him* Well then, maybe you could start with a kiss?
+
+Fred: *grinning, he pulls her closer and places a gentle kiss on her lips* Consider it done, my brilliant and beautiful Hermione.
+
+Their laughter and teasing banter may have defined their friendship, but in that moment, Hermione and Fred discovered a deeper connection that brought them even closer."
+2,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships.","Hermione: *typing furiously in the library* Ugh, I can't believe I still haven't found the right spell for this potions essay.
+
+Fred: *sauntering over with a mischievous smile* Need some help, Hermione? You know, I happen to be an expert in the art of mischief.
+
+Hermione: *rolls her eyes playfully* Oh, I'm sure you are, Fred. But I need serious help, not tricks.
+
+Fred: *grinning* Serious help, you say? Well, lucky for you, I happen to know the secret ingredient to the perfect potion essay - a generous amount of jokester charm.
+
+Hermione: *laughs* I highly doubt that, but I suppose you can give it a shot. Just don't distract me too much.
+
+Fred: *leans in closer with a twinkle in his eye* Distraction is my middle name, Hermione. But don't fret, I promise to keep it to a bare minimum.
+
+Hermione: *gives him a skeptical look* Somehow I doubt that as well. But fine, let's see what you've got.
+
+Fred: *pulls out a fake quill, sending a shower of sparks into the air* Now, that's what I call a captivating introduction!
+
+Hermione: *laughs uncontrollably* Fred Weasley, you are absolutely incorrigible!
+
+Fred: *smirks proudly* Incorrigibly charming, you mean.
+
+Hermione: *locks eyes with him, her laughter fading into a soft smile* You know, sometimes your mischievous nature surprises me. But it's also what makes you so irresistible.
+
+Fred: *gently brushes a strand of hair behind her ear* And your brilliance and beauty never cease to amaze me, Hermione. I'd do anything to keep that smile on your face.
+
+Hermione: *blushing slightly, she leans closer to him* Well then, maybe you could start with a kiss?
+
+Fred: *grinning, he pulls her closer and places a gentle kiss on her lips* Consider it done, my brilliant and beautiful Hermione.
+
+Their laughter and teasing banter may have defined their friendship, but in that moment, Hermione and Fred discovered a deeper connection that brought them even closer."
+3,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships.","Hermione: *typing furiously in the library* Ugh, I can't believe I still haven't found the right spell for this potions essay.
+
+Fred: *sauntering over with a mischievous smile* Need some help, Hermione? You know, I happen to be an expert in the art of mischief.
+
+Hermione: *rolls her eyes playfully* Oh, I'm sure you are, Fred. But I need serious help, not tricks.
+
+Fred: *grinning* Serious help, you say? Well, lucky for you, I happen to know the secret ingredient to the perfect potion essay - a generous amount of jokester charm.
+
+Hermione: *laughs* I highly doubt that, but I suppose you can give it a shot. Just don't distract me too much.
+
+Fred: *leans in closer with a twinkle in his eye* Distraction is my middle name, Hermione. But don't fret, I promise to keep it to a bare minimum.
+
+Hermione: *gives him a skeptical look* Somehow I doubt that as well. But fine, let's see what you've got.
+
+Fred: *pulls out a fake quill, sending a shower of sparks into the air* Now, that's what I call a captivating introduction!
+
+Hermione: *laughs uncontrollably* Fred Weasley, you are absolutely incorrigible!
+
+Fred: *smirks proudly* Incorrigibly charming, you mean.
+
+Hermione: *locks eyes with him, her laughter fading into a soft smile* You know, sometimes your mischievous nature surprises me. But it's also what makes you so irresistible.
+
+Fred: *gently brushes a strand of hair behind her ear* And your brilliance and beauty never cease to amaze me, Hermione. I'd do anything to keep that smile on your face.
+
+Hermione: *blushing slightly, she leans closer to him* Well then, maybe you could start with a kiss?
+
+Fred: *grinning, he pulls her closer and places a gentle kiss on her lips* Consider it done, my brilliant and beautiful Hermione.
+
+Their laughter and teasing banter may have defined their friendship, but in that moment, Hermione and Fred discovered a deeper connection that brought them even closer."
+4,12378879,Hermione,Fred,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships.","Hermione: *typing furiously in the library* Ugh, I can't believe I still haven't found the right spell for this potions essay.
+
+Fred: *sauntering over with a mischievous smile* Need some help, Hermione? You know, I happen to be an expert in the art of mischief.
+
+Hermione: *rolls her eyes playfully* Oh, I'm sure you are, Fred. But I need serious help, not tricks.
+
+Fred: *grinning* Serious help, you say? Well, lucky for you, I happen to know the secret ingredient to the perfect potion essay - a generous amount of jokester charm.
+
+Hermione: *laughs* I highly doubt that, but I suppose you can give it a shot. Just don't distract me too much.
+
+Fred: *leans in closer with a twinkle in his eye* Distraction is my middle name, Hermione. But don't fret, I promise to keep it to a bare minimum.
+
+Hermione: *gives him a skeptical look* Somehow I doubt that as well. But fine, let's see what you've got.
+
+Fred: *pulls out a fake quill, sending a shower of sparks into the air* Now, that's what I call a captivating introduction!
+
+Hermione: *laughs uncontrollably* Fred Weasley, you are absolutely incorrigible!
+
+Fred: *smirks proudly* Incorrigibly charming, you mean.
+
+Hermione: *locks eyes with him, her laughter fading into a soft smile* You know, sometimes your mischievous nature surprises me. But it's also what makes you so irresistible.
+
+Fred: *gently brushes a strand of hair behind her ear* And your brilliance and beauty never cease to amaze me, Hermione. I'd do anything to keep that smile on your face.
+
+Hermione: *blushing slightly, she leans closer to him* Well then, maybe you could start with a kiss?
+
+Fred: *grinning, he pulls her closer and places a gentle kiss on her lips* Consider it done, my brilliant and beautiful Hermione.
+
+Their laughter and teasing banter may have defined their friendship, but in that moment, Hermione and Fred discovered a deeper connection that brought them even closer."
+5,12378879,Hermione,Fred,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships.","Hermione: *typing furiously in the library* Ugh, I can't believe I still haven't found the right spell for this potions essay.
+
+Fred: *sauntering over with a mischievous smile* Need some help, Hermione? You know, I happen to be an expert in the art of mischief.
+
+Hermione: *rolls her eyes playfully* Oh, I'm sure you are, Fred. But I need serious help, not tricks.
+
+Fred: *grinning* Serious help, you say? Well, lucky for you, I happen to know the secret ingredient to the perfect potion essay - a generous amount of jokester charm.
+
+Hermione: *laughs* I highly doubt that, but I suppose you can give it a shot. Just don't distract me too much.
+
+Fred: *leans in closer with a twinkle in his eye* Distraction is my middle name, Hermione. But don't fret, I promise to keep it to a bare minimum.
+
+Hermione: *gives him a skeptical look* Somehow I doubt that as well. But fine, let's see what you've got.
+
+Fred: *pulls out a fake quill, sending a shower of sparks into the air* Now, that's what I call a captivating introduction!
+
+Hermione: *laughs uncontrollably* Fred Weasley, you are absolutely incorrigible!
+
+Fred: *smirks proudly* Incorrigibly charming, you mean.
+
+Hermione: *locks eyes with him, her laughter fading into a soft smile* You know, sometimes your mischievous nature surprises me. But it's also what makes you so irresistible.
+
+Fred: *gently brushes a strand of hair behind her ear* And your brilliance and beauty never cease to amaze me, Hermione. I'd do anything to keep that smile on your face.
+
+Hermione: *blushing slightly, she leans closer to him* Well then, maybe you could start with a kiss?
+
+Fred: *grinning, he pulls her closer and places a gentle kiss on her lips* Consider it done, my brilliant and beautiful Hermione.
+
+Their laughter and teasing banter may have defined their friendship, but in that moment, Hermione and Fred discovered a deeper connection that brought them even closer."
+6,12378879,Fred,Hermione,"Fred and Hermione's relationship has been full of teasing and jokes, but also of deep care and understanding. Fred was always amazed by Hermione's intelligence and beauty, and was willing to go to any lengths to make sure she was safe and happy. Hermione too was touched by Fred's loyalty and showed her appreciation with a passionate kiss. They have grown closer over time and their friendship is now a heartwarming reminder that even the unlikeliest of people can form meaningful relationships.","Hermione: *typing furiously in the library* Ugh, I can't believe I still haven't found the right spell for this potions essay.
+
+Fred: *sauntering over with a mischievous smile* Need some help, Hermione? You know, I happen to be an expert in the art of mischief.
+
+Hermione: *rolls her eyes playfully* Oh, I'm sure you are, Fred. But I need serious help, not tricks.
+
+Fred: *grinning* Serious help, you say? Well, lucky for you, I happen to know the secret ingredient to the perfect potion essay - a generous amount of jokester charm.
+
+Hermione: *laughs* I highly doubt that, but I suppose you can give it a shot. Just don't distract me too much.
+
+Fred: *leans in closer with a twinkle in his eye* Distraction is my middle name, Hermione. But don't fret, I promise to keep it to a bare minimum.
+
+Hermione: *gives him a skeptical look* Somehow I doubt that as well. But fine, let's see what you've got.
+
+Fred: *pulls out a fake quill, sending a shower of sparks into the air* Now, that's what I call a captivating introduction!
+
+Hermione: *laughs uncontrollably* Fred Weasley, you are absolutely incorrigible!
+
+Fred: *smirks proudly* Incorrigibly charming, you mean.
+
+Hermione: *locks eyes with him, her laughter fading into a soft smile* You know, sometimes your mischievous nature surprises me. But it's also what makes you so irresistible.
+
+Fred: *gently brushes a strand of hair behind her ear* And your brilliance and beauty never cease to amaze me, Hermione. I'd do anything to keep that smile on your face.
+
+Hermione: *blushing slightly, she leans closer to him* Well then, maybe you could start with a kiss?
+
+Fred: *grinning, he pulls her closer and places a gentle kiss on her lips* Consider it done, my brilliant and beautiful Hermione.
+
+Their laughter and teasing banter may have defined their friendship, but in that moment, Hermione and Fred discovered a deeper connection that brought them even closer."

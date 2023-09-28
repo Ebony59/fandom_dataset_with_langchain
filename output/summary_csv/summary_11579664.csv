@@ -1,6 +1,138 @@
-,fandom_id,character_1,character_2,summary
-0,11579664,Peter,Tony,"Peter Parker and Tony Stark share a unique bond in the Marvel Cinematic Universe. Peter is a young high school student who has been recently bitten by a radioactive spider and granted amazing powers, while Tony is a genius, billionaire, playboy philanthropist who takes Peter under his wing and mentors him. Peter looks up to Tony as a father figure, while Tony provides him with guidance and support. During a mission, Tony scolds Peter for having a B in calculus and talks to his Aunt May on the phone, showing his concern and interest in Peter's well-being. Despite his age, Peter is proving himself to be an invaluable asset to the Avengers, and Tony's trust in him is only increasing. Their relationship is characterized by trust, friendship, understanding, and mutual respect."
-1,11579664,Peter,Tony,"Peter Parker and Tony Stark share a unique bond in the Marvel Cinematic Universe. Peter is a young high school student who has been recently bitten by a radioactive spider and granted amazing powers, while Tony is a genius, billionaire, playboy philanthropist who takes Peter under his wing and mentors him. Peter looks up to Tony as a father figure, while Tony provides him with guidance and support. During a mission, Tony scolds Peter for having a B in calculus and talks to his Aunt May on the phone, showing his concern and interest in Peter's well-being. Despite his age, Peter is proving himself to be an invaluable asset to the Avengers, and Tony's trust in him is only increasing. Their relationship is characterized by trust, friendship, understanding, and mutual respect."
-2,11579664,Hawkeye,Falcon,"Additionally, the two characters have a playful relationship, often teasing and joking with each other. When Peter Parker joins the team, they are both amused by his presence and take the time to get to know him better. This bond is further strengthened when Peter is able to make the team laugh, even when Tony Stark scolds him. Through their friendship, Hawkeye and Falcon are able to showcase their mutual respect and trust in each other, and prove that they are a dynamic duo both on and off the battlefield."
-3,11579664,Tony,Peter,"Peter Parker and Tony Stark share a unique bond in the Marvel Cinematic Universe. Peter is a young high school student who has been recently bitten by a radioactive spider and granted amazing powers, while Tony is a genius, billionaire, playboy philanthropist who takes Peter under his wing and mentors him. Peter looks up to Tony as a father figure, while Tony provides him with guidance and support. During a mission, Tony scolds Peter for having a B in calculus and talks to his Aunt May on the phone, showing his concern and interest in Peter's well-being. Despite his age, Peter is proving himself to be an invaluable asset to the Avengers, and Tony's trust in him is only increasing. Their relationship is characterized by trust, friendship, understanding, and mutual respect."
-4,11579664,Captain America,Peter,"In the Marvel Cinematic Universe fandom, Captain America and Peter Parker embody two distinct personalities. Captain America is a patriot, who is known for his selfless attitude and his strong sense of justice. He is a natural leader who is respected by his peers, and is willing to put his life on the line to protect his friends and the innocent. Peter is a young man still trying to find his place in the world, and he looks up to Captain America as a mentor and friend. Despite their differences, the two of them share a strong bond of friendship and mutual respect, and are willing to help each other in times of need. Through their adventures, they learn more about themselves and each other, and come to understand the importance of working together to protect the innocent."
+,fandom_id,character_1,character_2,summary,prompt
+0,11579664,Peter,Tony,"Peter Parker and Tony Stark share a unique bond in the Marvel Cinematic Universe. Peter is a young high school student who has been recently bitten by a radioactive spider and granted amazing powers, while Tony is a genius, billionaire, playboy philanthropist who takes Peter under his wing and mentors him. Peter looks up to Tony as a father figure, while Tony provides him with guidance and support. During a mission, Tony scolds Peter for having a B in calculus and talks to his Aunt May on the phone, showing his concern and interest in Peter's well-being. Despite his age, Peter is proving himself to be an invaluable asset to the Avengers, and Tony's trust in him is only increasing. Their relationship is characterized by trust, friendship, understanding, and mutual respect.","Peter: *rushes into the lab, breathless* Mr. Stark, I've got the analysis on the alien technology from our last mission!
+
+Tony: *smirks, impressed* Well, well, well, look who's making strides in the science department. Good job, kid. 
+
+Peter: Thanks, Mr. Stark! I've been studying really hard to catch up. But, um, speaking of catching up... I have a B in calculus. 
+
+Tony: *raises an eyebrow* A B? Parker, we've been through this. We don't settle for anything less than an A+. You've got potential, kid. Don't waste it.
+
+Peter: *nervously* I know, Mr. Stark, I'm sorry. I'll work even harder, I promise.
+
+Tony: *sighs, then smiles* It's not just about the grades, Peter. I want you to be the best version of yourself in every aspect of your life. Even math. Now, give Aunt May a call. I want to check how you're doing in school.
+
+Peter: *grinning* You really care about my grades?
+
+Tony: Of course, I do. You're like a son to me, Peter. I want you to have the best education possible.
+
+Peter: *takes out his phone, dials Aunt May's number* Thanks, Mr. Stark. I'm lucky to have you in my corner.
+
+Tony: *putting an arm around Peter's shoulder* Likewise, kid. Now, let's see that calculus grade improve, and who knows, maybe we'll even tackle advanced quantum mechanics together.
+
+Peter: *laughs* That sounds amazing, Mr. Stark. I can't wait!
+
+Tony: And remember, Peter, believe in yourself. There's nothing you can't achieve with your smarts and those spider powers of yours.
+
+Peter: I won't let you down, Mr. Stark. I'll make you proud. 
+
+Tony: I already am, kid."
+1,11579664,Peter,Tony,"Peter Parker and Tony Stark share a unique bond in the Marvel Cinematic Universe. Peter is a young high school student who has been recently bitten by a radioactive spider and granted amazing powers, while Tony is a genius, billionaire, playboy philanthropist who takes Peter under his wing and mentors him. Peter looks up to Tony as a father figure, while Tony provides him with guidance and support. During a mission, Tony scolds Peter for having a B in calculus and talks to his Aunt May on the phone, showing his concern and interest in Peter's well-being. Despite his age, Peter is proving himself to be an invaluable asset to the Avengers, and Tony's trust in him is only increasing. Their relationship is characterized by trust, friendship, understanding, and mutual respect.","Peter: *rushes into the lab, breathless* Mr. Stark, I've got the analysis on the alien technology from our last mission!
+
+Tony: *smirks, impressed* Well, well, well, look who's making strides in the science department. Good job, kid. 
+
+Peter: Thanks, Mr. Stark! I've been studying really hard to catch up. But, um, speaking of catching up... I have a B in calculus. 
+
+Tony: *raises an eyebrow* A B? Parker, we've been through this. We don't settle for anything less than an A+. You've got potential, kid. Don't waste it.
+
+Peter: *nervously* I know, Mr. Stark, I'm sorry. I'll work even harder, I promise.
+
+Tony: *sighs, then smiles* It's not just about the grades, Peter. I want you to be the best version of yourself in every aspect of your life. Even math. Now, give Aunt May a call. I want to check how you're doing in school.
+
+Peter: *grinning* You really care about my grades?
+
+Tony: Of course, I do. You're like a son to me, Peter. I want you to have the best education possible.
+
+Peter: *takes out his phone, dials Aunt May's number* Thanks, Mr. Stark. I'm lucky to have you in my corner.
+
+Tony: *putting an arm around Peter's shoulder* Likewise, kid. Now, let's see that calculus grade improve, and who knows, maybe we'll even tackle advanced quantum mechanics together.
+
+Peter: *laughs* That sounds amazing, Mr. Stark. I can't wait!
+
+Tony: And remember, Peter, believe in yourself. There's nothing you can't achieve with your smarts and those spider powers of yours.
+
+Peter: I won't let you down, Mr. Stark. I'll make you proud. 
+
+Tony: I already am, kid."
+2,11579664,Hawkeye,Falcon,"Additionally, the two characters have a playful relationship, often teasing and joking with each other. When Peter Parker joins the team, they are both amused by his presence and take the time to get to know him better. This bond is further strengthened when Peter is able to make the team laugh, even when Tony Stark scolds him. Through their friendship, Hawkeye and Falcon are able to showcase their mutual respect and trust in each other, and prove that they are a dynamic duo both on and off the battlefield.","Hawkeye: Hey, Falcon, did you know that I can hit a target from a mile away blindfolded?
+
+Falcon: Oh, please, Clint. I've seen you try to shoot a bullseye and miss by a mile. Maybe you need a new pair of glasses.
+
+Hawkeye: Glasses? Nah, I think I just need a better sparring partner. Care to give it a shot, Sam?
+
+Falcon: Oh, you're on, Clint. Just don't cry when I beat you. And don't worry, I'll make sure to take it easy on your weak aim.
+
+Hawkeye: We'll see about that, wingman. But remember, my arrows have a way of finding their mark, no matter what.
+
+Peter Parker: Hey guys, what's going on?
+
+Falcon: Spider-boy, welcome to the Avengers. We were just discussing how Hawkeye's aim is as sharp as a butter knife.
+
+Hawkeye: Oh, really? Well, maybe I'll show you what this butter knife can do, Spider-kid. Think you can keep up?
+
+Peter Parker: Uh, I'll give it my best shot. But you guys have been doing this for years, so cut me some slack.
+
+Falcon: Don't worry, kid. We were all beginners once. You'll fit right in with us, even if you end up being the comedic relief.
+
+Hawkeye: Speaking of comedy, who's ready to see Tony lose it when Parker cracks a joke during a mission briefing?
+
+Falcon: Oh, I can already imagine that priceless expression on Stark's face. Count me in, Clint. Let's give Parker a chance to shine.
+
+Peter Parker: Wait, you guys think I'm funny?
+
+Hawkeye: Trust me, kid. Your humor is like a breath of fresh air in this serious world. Just keep being yourself, and you'll win everyone over.
+
+Falcon: Couldn't have said it better myself. Welcome to the Avengers, Spidey. Let's show the world that we're not just heroes but friends who have each other's backs."
+3,11579664,Tony,Peter,"Peter Parker and Tony Stark share a unique bond in the Marvel Cinematic Universe. Peter is a young high school student who has been recently bitten by a radioactive spider and granted amazing powers, while Tony is a genius, billionaire, playboy philanthropist who takes Peter under his wing and mentors him. Peter looks up to Tony as a father figure, while Tony provides him with guidance and support. During a mission, Tony scolds Peter for having a B in calculus and talks to his Aunt May on the phone, showing his concern and interest in Peter's well-being. Despite his age, Peter is proving himself to be an invaluable asset to the Avengers, and Tony's trust in him is only increasing. Their relationship is characterized by trust, friendship, understanding, and mutual respect.","Peter: *rushes into the lab, breathless* Mr. Stark, I've got the analysis on the alien technology from our last mission!
+
+Tony: *smirks, impressed* Well, well, well, look who's making strides in the science department. Good job, kid. 
+
+Peter: Thanks, Mr. Stark! I've been studying really hard to catch up. But, um, speaking of catching up... I have a B in calculus. 
+
+Tony: *raises an eyebrow* A B? Parker, we've been through this. We don't settle for anything less than an A+. You've got potential, kid. Don't waste it.
+
+Peter: *nervously* I know, Mr. Stark, I'm sorry. I'll work even harder, I promise.
+
+Tony: *sighs, then smiles* It's not just about the grades, Peter. I want you to be the best version of yourself in every aspect of your life. Even math. Now, give Aunt May a call. I want to check how you're doing in school.
+
+Peter: *grinning* You really care about my grades?
+
+Tony: Of course, I do. You're like a son to me, Peter. I want you to have the best education possible.
+
+Peter: *takes out his phone, dials Aunt May's number* Thanks, Mr. Stark. I'm lucky to have you in my corner.
+
+Tony: *putting an arm around Peter's shoulder* Likewise, kid. Now, let's see that calculus grade improve, and who knows, maybe we'll even tackle advanced quantum mechanics together.
+
+Peter: *laughs* That sounds amazing, Mr. Stark. I can't wait!
+
+Tony: And remember, Peter, believe in yourself. There's nothing you can't achieve with your smarts and those spider powers of yours.
+
+Peter: I won't let you down, Mr. Stark. I'll make you proud. 
+
+Tony: I already am, kid."
+4,11579664,Captain America,Peter,"In the Marvel Cinematic Universe fandom, Captain America and Peter Parker embody two distinct personalities. Captain America is a patriot, who is known for his selfless attitude and his strong sense of justice. He is a natural leader who is respected by his peers, and is willing to put his life on the line to protect his friends and the innocent. Peter is a young man still trying to find his place in the world, and he looks up to Captain America as a mentor and friend. Despite their differences, the two of them share a strong bond of friendship and mutual respect, and are willing to help each other in times of need. Through their adventures, they learn more about themselves and each other, and come to understand the importance of working together to protect the innocent.","Peter: (excitedly) Hey, Cap! I've been working on these new web-shooters. Check them out!
+
+Cap: (smiling) That's impressive, Peter. Always finding ways to improve yourself. Just remember, responsibility comes with great power.
+
+Peter: (nods) I know, Cap. You've taught me that. I aspire to be as selfless as you, always fighting for what's right.
+
+Cap: (puts a hand on Peter's shoulder) You already are, kid. Your determination and bravery inspire me. Keep that fire burning.
+
+Peter: (grinning) Thanks, Cap. Means a lot coming from you. Just wish I could be as strong as you.
+
+Cap: (laughs) Strength comes in different forms, Peter. What you lack in physical strength, you make up for in heart and quick thinking.
+
+Peter: (blushing) You really think so?
+
+Cap: (serious) Absolutely. You've saved countless lives with your intelligence and courage. That's what makes you a hero.
+
+Peter: (humbled) Wow, coming from Captain America himself.
+
+Cap: (smiling) We're a team, Peter. Our differences make us stronger. Together, we can overcome any challenge.
+
+Peter: (grateful) I'm lucky to have you as a mentor, Cap. Thank you for always guiding me and believing in me.
+
+Cap: (warmly) It's an honor, Peter. Remember, we fight for something bigger than ourselves. Protecting the innocent is our greatest duty.
+
+Peter: (determined) I won't let you down, Cap. We'll make sure the world stays safe, just like you've taught me.
+
+Cap: (proudly) I know you will, Peter. Let's face the world together, side by side. Avengers, assemble!"

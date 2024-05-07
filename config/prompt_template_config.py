@@ -57,3 +57,12 @@ B: "What do you want to say?" *stopped and looked back*
 
 
 """
+
+generation_prompt = """Write a 10-line conversations between {character_1} and {character_2} from {original_work}, based on the summarisation of their personalities and relationship: {summary}. 
+Write it in a fandom or galgame style, be as descriptive and creative as possible.
+Wrap the reactions in *...* insteand of (...)
+
+For example:
+A: "I want to talk to you." *walks towards B* "It's urgent."
+B: "What do you want to say?" *stopped and looked back*
+"""

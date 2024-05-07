@@ -1,91 +1,66 @@
-,fandom_id,character_1,character_2,summary,prompt
-0,6725662,Peter Parker,Tony Stark,"Summary:
+,Unnamed: 0,fandom_id,character_1,character_2,summary,prompt
+0,0,6725662,Peter Parker,Tony Stark,"Summary:
 Peter Parker and Tony Stark share a close bond in the Marvel Cinematic Universe. Tony sees potential in Peter and takes him under his wing, treating him like a son and providing him with guidance, resources, and support. They share a mutual respect and understanding, often bonding over their shared interests in science and technology. Tony's death was a devastating moment for Peter, but his relationships with Tony remain an important part of his story and character arc.","Scene: Tony Stark's workshop. Peter Parker is tinkering with some gadgets as Tony Stark approaches.
 
-Peter: (looking up from his work) Hey, Mr. Stark! Check out this new web shooter design I came up with. It's got a higher tensile strength and increased web-fluid capacity.
+Peter: *looking up from his work* Hey, Mr. Stark! Check out this new web shooter design I came up with. It's got a higher tensile strength and increased web-fluid capacity.
 
-Tony: (smirking) Impressive, kid. You never cease to amaze me with your inventions. Reminds me of myself when I was your age.
+Tony: *smirking* Impressive, kid. You never cease to amaze me with your inventions. Reminds me of myself when I was your age.
 
-Peter: (grinning) Thanks, Mr. Stark. You've been a huge inspiration to me. I've learned so much from you.
+Peter: *grinning* Thanks, Mr. Stark. You've been a huge inspiration to me. I've learned so much from you.
 
-Tony: (patting Peter's shoulder) And you've grown leaps and bounds, Spider-Man. I'm proud of how far you've come. You're like the son I never had.
+Tony: *patting Peter's shoulder* And you've grown leaps and bounds, Spider-Man. I'm proud of how far you've come. You're like the son I never had.
 
-Peter: (blushing) Thanks, Tony. That means a lot to me.
+Peter: *blushing* Thanks, Tony. That means a lot to me.
 
-Tony: (serious) You know, Peter, with great power comes great responsibility. You've got to use your abilities for the greater good. I believe in you.
+Tony: *serious* You know, Peter, with great power comes great responsibility. You've got to use your abilities for the greater good. I believe in you.
 
-Peter: (nodding) I won't let you down, Tony. I promise.
+Peter: *nodding* I won't let you down, Tony. I promise.
 
-Tony: (smiling) I know you won't, kid. Just remember, rely on your brains as much as your powers. It's what sets you apart.
+Tony: *smiling* I know you won't, kid. Just remember, rely on your brains as much as your powers. It's what sets you apart.
 
-Peter: (grinning) Absolutely, Tony. Science is the way to go!
+Peter: *grinning* Absolutely, Tony. Science is the way to go!
 
-Tony: (raising an eyebrow) I couldn't agree more. We'll make quite the dynamic duo, won't we?
+Tony: *raising an eyebrow* I couldn't agree more. We'll make quite the dynamic duo, won't we?
 
-Peter: (laughing) Definitely, Tony. I'm lucky to have you as my mentor.
+Peter: *laughing* Definitely, Tony. I'm lucky to have you as my mentor.
 
-Tony: (playfully) And I'm lucky to have you as my protege. Now, let's get back to work. The world needs its friendly neighborhood Spider-Man.
+Tony: *playfully* And I'm lucky to have you as my protege. Now, let's get back to work. The world needs its friendly neighborhood Spider-Man.
 
-Peter: (determined) You got it, Iron Man. Let's save the day together.
+Peter: *determined* You got it, Iron Man. Let's save the day together.
 
-Tony: (smirking) That's the spirit, Spider-Man. Avengers, assemble!"
-1,6725662,Captain America,Peter,"In Marvel Cinematic Universe, Captain America and Peter have a strong bond of friendship and mutual respect. Captain America is a symbol of justice and patriotism, while Peter is a young, untested superhero who still has much to learn. Despite their differences, Captain America takes Peter under his wing, offering guidance and support while helping him to become a better and more responsible hero. Along the way, they form a deep bond of camaraderie and trust, learning to rely on each other in times of need. They are also part of a larger extended family, with Tony Stark, James ""Rhodey"" Rhodes, Sam Wilson, Clint Barton, and T'Challa all part of their circle. Together, they face down alien threats, take on corrupt government officials, and protect each other in difficult times, inspiring others with their powerful friendship.","Captain America: (pats Peter on the back) You're doing great, kid. Just remember, with great power comes great responsibility. Stay true to your principles, and you'll become a hero like no other.
+Tony: *smirking* That's the spirit, Spider-Man. Avengers, assemble!"
+1,1,6725662,Captain America,Peter,"In Marvel Cinematic Universe, Captain America and Peter have a strong bond of friendship and mutual respect. Captain America is a symbol of justice and patriotism, while Peter is a young, untested superhero who still has much to learn. Despite their differences, Captain America takes Peter under his wing, offering guidance and support while helping him to become a better and more responsible hero. Along the way, they form a deep bond of camaraderie and trust, learning to rely on each other in times of need. They are also part of a larger extended family, with Tony Stark, James ""Rhodey"" Rhodes, Sam Wilson, Clint Barton, and T'Challa all part of their circle. Together, they face down alien threats, take on corrupt government officials, and protect each other in difficult times, inspiring others with their powerful friendship.","Captain America: *pats Peter on the back* You're doing great, kid. Just remember, with great power comes great responsibility. Stay true to your principles, and you'll become a hero like no other.
 
-Peter: (nervously) Thanks, Cap. It means a lot coming from you. I still can't believe I'm fighting alongside the Avengers. It's like a dream come true.
+Peter: *nervously* Thanks, Cap. It means a lot coming from you. I still can't believe I'm fighting alongside the Avengers. It's like a dream come true.
 
-Captain America: (smiles) Well, you've earned your spot, Peter. Your bravery and determination are an inspiration to us all. Just keep your head up and always do what's right.
+Captain America: *smiles* Well, you've earned your spot, Peter. Your bravery and determination are an inspiration to us all. Just keep your head up and always do what's right.
 
-Peter: (grinning) I'll do my best, Cap. But sometimes it's hard, you know? Being a teenager and a superhero. I worry about making mistakes.
+Peter: *grinning* I'll do my best, Cap. But sometimes it's hard, you know? Being a teenager and a superhero. I worry about making mistakes.
 
-Captain America: (puts a hand on Peter's shoulder) We all make mistakes, Peter. That's how we learn and grow. Just remember to learn from them and never give up. You're stronger than you think.
+Captain America: *puts a hand on Peter's shoulder* We all make mistakes, Peter. That's how we learn and grow. Just remember to learn from them and never give up. You're stronger than you think.
 
-Peter: (gains confidence) Thanks, Cap. I'll keep that in mind. You're like the big brother I never had.
+Peter: *gains confidence* Thanks, Cap. I'll keep that in mind. You're like the big brother I never had.
 
-Captain America: (laughs) Well, it's an honor to be your big brother, Peter. We're all here for each other, like a family. And together, we can accomplish anything.
+Captain America: *laughs* Well, it's an honor to be your big brother, Peter. We're all here for each other, like a family. And together, we can accomplish anything.
 
-Peter: (looking up to Cap) You're right. We've faced some tough battles, but with you leading the way, I know we'll always come out on top. You're the symbol of hope and justice we all need.
+Peter: *looking up to Cap* You're right. We've faced some tough battles, but with you leading the way, I know we'll always come out on top. You're the symbol of hope and justice we all need.
 
-Captain America: (grateful) Thank you, Peter. Your faith in me means a lot. But remember, it's not just about me. We're all heroes in our own right, and together, we make each other stronger.
+Captain America: *grateful* Thank you, Peter. Your faith in me means a lot. But remember, it's not just about me. We're all heroes in our own right, and together, we make each other stronger.
 
-Peter: (determined) I won't let you down, Cap. I'll keep fighting, keep growing, and one day, I'll be as great a hero as you are.
+Peter: *determined* I won't let you down, Cap. I'll keep fighting, keep growing, and one day, I'll be as great a hero as you are.
 
-Captain America: (smiling proudly) I believe in you, Peter. You have the heart of a true hero. Keep pushing yourself, and remember, I'll always be here to offer guidance and support.
+Captain America: *smiling proudly* I believe in you, Peter. You have the heart of a true hero. Keep pushing yourself, and remember, I'll always be here to offer guidance and support.
 
-Peter: (gratefully) And I'll always be here to learn from you, Cap. Together, we'll inspire others and show them the power of friendship and unity.
+Peter: *gratefully* And I'll always be here to learn from you, Cap. Together, we'll inspire others and show them the power of friendship and unity.
 
 Their bond grows stronger with each passing day, as Captain America and Peter continue to fight side by side, facing new challenges and triumphing over adversity. The world may be full of chaos, but their friendship remains a beacon of hope, reminding everyone that heroes are not just those with powers, but those who stand up for what is right, no matter the odds."
-2,6725662,Peter,Mr. Stark,"The relationship between Peter and Mr. Stark is characterized by mutual respect and admiration. Though they come from different worlds, the two share a strong bond that is strengthened by their comedic banter and playful interactions. Mr. Stark is protective of Peter and shows a genuine interest in his growth, while Peter is determined, brave and tenacious. Together, the two form an unbreakable bond and Mr. Stark serves as Peter's mentor, guide, and father figure.","Peter: Hey Mr. Stark, have you seen my new web-shooter upgrade? It's the latest technology I designed myself!
+2,2,6725662,Peter,Mr. Stark,"The relationship between Peter and Mr. Stark is characterized by mutual respect and admiration. Though they come from different worlds, the two share a strong bond that is strengthened by their comedic banter and playful interactions. Mr. Stark is protective of Peter and shows a genuine interest in his growth, while Peter is determined, brave and tenacious. Together, the two form an unbreakable bond and Mr. Stark serves as Peter's mentor, guide, and father figure.","Peter: Hey Mr. Stark, have you seen my new web-shooter upgrade? It's the latest technology I designed myself!
 
-Mr. Stark: (Smirking) Oh, I'm sure it's impressive, kid. Just don't blow up any more cars with it, alright?
+Mr. Stark: *Smirking* Oh, I'm sure it's impressive, kid. Just don't blow up any more cars with it, alright?
 
-Peter: (Laughing) I promise, I've learned my lesson. But you have to admit, it was a pretty cool explosion.
+Peter: *Laughing* I promise, I've learned my lesson. But you have to admit, it was a pretty cool explosion.
 
-Mr. Stark: (Chuckling) Yeah, I'll give you that. Your enthusiasm for destruction is unmatched. But seriously, Peter, you're growing as a hero. I'm proud of you.
-
-Peter: Thanks, Mr. Stark. That means a lot coming from you. You've been an amazing mentor. 
-
-Mr. Stark: Hey, it's the least I can do. You remind me a lot of myself when I was your age, always pushing the boundaries. Just remember to stay focused and stay safe out there.
-
-Peter: I will, Mr. Stark. With great power comes great responsibility, right?
-
-Mr. Stark: Absolutely. And with your determination and bravery, there's nothing you can't accomplish.
-
-Peter: You know, sometimes I still can't believe I'm fighting alongside the legendary Iron Man.
-
-Mr. Stark: (Smirking) Well, get used to it, kid. We make a pretty good team, if I do say so myself.
-
-Peter: Yeah, we do. And I'm gonna keep learning from the best.
-
-Mr. Stark: That's the spirit, Peter. Just remember, no matter what happens, I've got your back.
-
-Peter: And I've got yours, Mr. Stark. Together, we're unstoppable."
-3,6725662,Peter,Mr. Stark,"The relationship between Peter and Mr. Stark is characterized by mutual respect and admiration. Though they come from different worlds, the two share a strong bond that is strengthened by their comedic banter and playful interactions. Mr. Stark is protective of Peter and shows a genuine interest in his growth, while Peter is determined, brave and tenacious. Together, the two form an unbreakable bond and Mr. Stark serves as Peter's mentor, guide, and father figure.","Peter: Hey Mr. Stark, have you seen my new web-shooter upgrade? It's the latest technology I designed myself!
-
-Mr. Stark: (Smirking) Oh, I'm sure it's impressive, kid. Just don't blow up any more cars with it, alright?
-
-Peter: (Laughing) I promise, I've learned my lesson. But you have to admit, it was a pretty cool explosion.
-
-Mr. Stark: (Chuckling) Yeah, I'll give you that. Your enthusiasm for destruction is unmatched. But seriously, Peter, you're growing as a hero. I'm proud of you.
+Mr. Stark: *Chuckling* Yeah, I'll give you that. Your enthusiasm for destruction is unmatched. But seriously, Peter, you're growing as a hero. I'm proud of you.
 
 Peter: Thanks, Mr. Stark. That means a lot coming from you. You've been an amazing mentor. 
 
@@ -97,37 +72,62 @@ Mr. Stark: Absolutely. And with your determination and bravery, there's nothing 
 
 Peter: You know, sometimes I still can't believe I'm fighting alongside the legendary Iron Man.
 
-Mr. Stark: (Smirking) Well, get used to it, kid. We make a pretty good team, if I do say so myself.
+Mr. Stark: *Smirking* Well, get used to it, kid. We make a pretty good team, if I do say so myself.
 
 Peter: Yeah, we do. And I'm gonna keep learning from the best.
 
 Mr. Stark: That's the spirit, Peter. Just remember, no matter what happens, I've got your back.
 
 Peter: And I've got yours, Mr. Stark. Together, we're unstoppable."
-4,6725662,Tony,Sam,"The fandom showcases the relationship between Tony and Sam as they attempt to solve a unique problem. After the airport fight in Captain America: Civil War, it is revealed that Peter Parker is too young to fly unaccompanied without a great deal of paperwork. Tony and Sam attempt to solve this problem by arguing over who should take Peter home, but eventually make a compromise and decide to take Peter home together. Through their interactions, Tony and Sam's relationship is developed and it is revealed that Tony views Sam as a potential father figure for Peter. Despite the disagreements and occasional jibes between the two, Tony and Sam ultimately form a strong bond of friendship and trust, which enables them to protect each other and the world.","(Scene: Tony Stark's luxurious penthouse. Tony and Sam Wilson, also known as Falcon, are seated across from each other at a sleek, modern glass table. Peter Parker, wearing his Spider-Man suit, stands nervously in the corner.)
+3,3,6725662,Peter,Mr. Stark,"The relationship between Peter and Mr. Stark is characterized by mutual respect and admiration. Though they come from different worlds, the two share a strong bond that is strengthened by their comedic banter and playful interactions. Mr. Stark is protective of Peter and shows a genuine interest in his growth, while Peter is determined, brave and tenacious. Together, the two form an unbreakable bond and Mr. Stark serves as Peter's mentor, guide, and father figure.","Peter: Hey Mr. Stark, have you seen my new web-shooter upgrade? It's the latest technology I designed myself!
 
-Tony: (leaning back in his chair, smirking) So, Sam, how about we settle this annoying paperwork problem?
+Mr. Stark: *Smirking* Oh, I'm sure it's impressive, kid. Just don't blow up any more cars with it, alright?
 
-Sam: (leaning forward, arms crossed) Tony, I've already told you. I've got a mission to complete, and I can't babysit your friendly neighborhood Spider-Kid.
+Peter: *Laughing* I promise, I've learned my lesson. But you have to admit, it was a pretty cool explosion.
 
-Tony: (playfully rolling his eyes) Sam, come on. You're practically Captain America's right-hand man. Plus, your wings make you the perfect chaperone for Peter here.
+Mr. Stark: *Chuckling* Yeah, I'll give you that. Your enthusiasm for destruction is unmatched. But seriously, Peter, you're growing as a hero. I'm proud of you.
 
-Sam: (sighing) Look, I'm flattered that you see my wings as handy, but I'm not a babysitter. Besides, you're Iron Man. Can't you handle this?
+Peter: Thanks, Mr. Stark. That means a lot coming from you. You've been an amazing mentor. 
 
-Tony: (grinning mischievously) Oh, I could, but I think Peter needs someone who understands the ""suit-wearing hero"" life. Someone like you, Sam.
+Mr. Stark: Hey, it's the least I can do. You remind me a lot of myself when I was your age, always pushing the boundaries. Just remember to stay focused and stay safe out there.
 
-Sam: (smiling, slightly caught off guard) Well, I guess I can't argue with that. But only if you promise to bring me that new Stark Industries gadget I've been eyeing.
+Peter: I will, Mr. Stark. With great power comes great responsibility, right?
 
-Tony: (raising an eyebrow) Deal, but only if you keep an eye on Peter's training. I want him to be the best version of Spider-Man he can be.
+Mr. Stark: Absolutely. And with your determination and bravery, there's nothing you can't accomplish.
 
-Sam: (nodding) Deal. He's got some potential, that kid. I'll make sure he learns some tricks from the Falcon playbook too.
+Peter: You know, sometimes I still can't believe I'm fighting alongside the legendary Iron Man.
 
-Tony: (leaning forward earnestly) Thanks, Sam. I know Peter looks up to you. You're like a father figure to him, someone he can trust in this crazy world.
+Mr. Stark: *Smirking* Well, get used to it, kid. We make a pretty good team, if I do say so myself.
 
-Sam: (grinning, a hint of pride in his voice) Well, Tony, I'll do my best to be that person for him. He's a good kid, just needs some guidance.
+Peter: Yeah, we do. And I'm gonna keep learning from the best.
 
-Tony: (clinking his glass against Sam's) To Peter, the future of Spider-Man, and to our newfound partnership, my friend.
+Mr. Stark: That's the spirit, Peter. Just remember, no matter what happens, I've got your back.
 
-Sam: (smiling, clinking their glasses together) Cheers to that, Tony. We've got this, together. And who knows, maybe we'll even save the world in the process.
+Peter: And I've got yours, Mr. Stark. Together, we're unstoppable."
+4,4,6725662,Tony,Sam,"The fandom showcases the relationship between Tony and Sam as they attempt to solve a unique problem. After the airport fight in Captain America: Civil War, it is revealed that Peter Parker is too young to fly unaccompanied without a great deal of paperwork. Tony and Sam attempt to solve this problem by arguing over who should take Peter home, but eventually make a compromise and decide to take Peter home together. Through their interactions, Tony and Sam's relationship is developed and it is revealed that Tony views Sam as a potential father figure for Peter. Despite the disagreements and occasional jibes between the two, Tony and Sam ultimately form a strong bond of friendship and trust, which enables them to protect each other and the world.","*Scene: Tony Stark's luxurious penthouse. Tony and Sam Wilson, also known as Falcon, are seated across from each other at a sleek, modern glass table. Peter Parker, wearing his Spider-Man suit, stands nervously in the corner.*
 
-(As the two raise their glasses, Peter watches on, his nervousness fading away. He realizes that with these two heroes by his side, he is part of a greater family - a family that will always have his back.)"
+Tony: *leaning back in his chair, smirking* So, Sam, how about we settle this annoying paperwork problem?
+
+Sam: *leaning forward, arms crossed* Tony, I've already told you. I've got a mission to complete, and I can't babysit your friendly neighborhood Spider-Kid.
+
+Tony: *playfully rolling his eyes* Sam, come on. You're practically Captain America's right-hand man. Plus, your wings make you the perfect chaperone for Peter here.
+
+Sam: *sighing* Look, I'm flattered that you see my wings as handy, but I'm not a babysitter. Besides, you're Iron Man. Can't you handle this?
+
+Tony: *grinning mischievously* Oh, I could, but I think Peter needs someone who understands the ""suit-wearing hero"" life. Someone like you, Sam.
+
+Sam: *smiling, slightly caught off guard* Well, I guess I can't argue with that. But only if you promise to bring me that new Stark Industries gadget I've been eyeing.
+
+Tony: *raising an eyebrow* Deal, but only if you keep an eye on Peter's training. I want him to be the best version of Spider-Man he can be.
+
+Sam: *nodding* Deal. He's got some potential, that kid. I'll make sure he learns some tricks from the Falcon playbook too.
+
+Tony: *leaning forward earnestly* Thanks, Sam. I know Peter looks up to you. You're like a father figure to him, someone he can trust in this crazy world.
+
+Sam: *grinning, a hint of pride in his voice* Well, Tony, I'll do my best to be that person for him. He's a good kid, just needs some guidance.
+
+Tony: *clinking his glass against Sam's* To Peter, the future of Spider-Man, and to our newfound partnership, my friend.
+
+Sam: *smiling, clinking their glasses together* Cheers to that, Tony. We've got this, together. And who knows, maybe we'll even save the world in the process.
+
+*As the two raise their glasses, Peter watches on, his nervousness fading away. He realizes that with these two heroes by his side, he is part of a greater family - a family that will always have his back.*"

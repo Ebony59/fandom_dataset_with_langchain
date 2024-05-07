@@ -218,7 +218,6 @@ class fandom:
         return summary_df
     
     def get_prompt(self,model='gpt-3.5-turbo'):
-        generation_prompt = "Write a 10-line conversations between {character_1} and {character_2} from {original_work}, based on the summarisation of their personalities and relationship: {summary}. Write it in a fandom or galgame style, be as descriptive and creative as possible."
         existing_character_pairs = []
         existing_prompt_list = []
         llm = ChatOpenAI(model=model)

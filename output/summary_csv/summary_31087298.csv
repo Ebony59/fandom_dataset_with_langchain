@@ -1,5 +1,5 @@
-,fandom_id,character_1,character_2,summary,prompt
-0,31087298,Harry,Tom,"The story also explores the complicated relationship between Harry and Tom with Voldemort, the Dark Lord. Voldemort attempts to use Tom to manipulate Harry, but Tom is determined to protect him. When Voldemort grabs Harry to scold him, Tom steps in and starts to challenge the Dark Lord's authority. Tom also stands up for Harry when Voldemort tries to recruit a potions mistress. Despite the tense situation between Harry and Voldemort, Harry and Tom share an unbreakable bond rooted in mutual respect and admiration.","Harry: *nervously glancing at Voldemort* Tom, I can't believe he's using you against me again. I thought we were done with this manipulation.
+,Unnamed: 0,fandom_id,character_1,character_2,summary,prompt
+0,0,31087298,Harry,Tom,"The story also explores the complicated relationship between Harry and Tom with Voldemort, the Dark Lord. Voldemort attempts to use Tom to manipulate Harry, but Tom is determined to protect him. When Voldemort grabs Harry to scold him, Tom steps in and starts to challenge the Dark Lord's authority. Tom also stands up for Harry when Voldemort tries to recruit a potions mistress. Despite the tense situation between Harry and Voldemort, Harry and Tom share an unbreakable bond rooted in mutual respect and admiration.","Harry: *nervously glancing at Voldemort* Tom, I can't believe he's using you against me again. I thought we were done with this manipulation.
 
 Tom: *stands tall, his eyes burning with determination* Harry, I won't let him control us anymore. I'll always protect you, no matter what.
 
@@ -20,7 +20,7 @@ Voldemort: *furious, his voice laced with venom* You foolish boy, Tom. You under
 Tom: *defiant, with unyielding determination* No, my lord. It is you who underestimates the power of love and friendship. And that is something I'll never regret.
 
 Harry: *smiles, the bond between them unbreakable* We may face darkness, Tom, but together, we'll always find the light. Let's face Voldemort, side by side, and bring an end to this tyranny."
-1,31087298,Harry,Tom,"The story also explores the complicated relationship between Harry and Tom with Voldemort, the Dark Lord. Voldemort attempts to use Tom to manipulate Harry, but Tom is determined to protect him. When Voldemort grabs Harry to scold him, Tom steps in and starts to challenge the Dark Lord's authority. Tom also stands up for Harry when Voldemort tries to recruit a potions mistress. Despite the tense situation between Harry and Voldemort, Harry and Tom share an unbreakable bond rooted in mutual respect and admiration.","Harry: *nervously glancing at Voldemort* Tom, I can't believe he's using you against me again. I thought we were done with this manipulation.
+1,1,31087298,Harry,Tom,"The story also explores the complicated relationship between Harry and Tom with Voldemort, the Dark Lord. Voldemort attempts to use Tom to manipulate Harry, but Tom is determined to protect him. When Voldemort grabs Harry to scold him, Tom steps in and starts to challenge the Dark Lord's authority. Tom also stands up for Harry when Voldemort tries to recruit a potions mistress. Despite the tense situation between Harry and Voldemort, Harry and Tom share an unbreakable bond rooted in mutual respect and admiration.","Harry: *nervously glancing at Voldemort* Tom, I can't believe he's using you against me again. I thought we were done with this manipulation.
 
 Tom: *stands tall, his eyes burning with determination* Harry, I won't let him control us anymore. I'll always protect you, no matter what.
 
@@ -41,7 +41,7 @@ Voldemort: *furious, his voice laced with venom* You foolish boy, Tom. You under
 Tom: *defiant, with unyielding determination* No, my lord. It is you who underestimates the power of love and friendship. And that is something I'll never regret.
 
 Harry: *smiles, the bond between them unbreakable* We may face darkness, Tom, but together, we'll always find the light. Let's face Voldemort, side by side, and bring an end to this tyranny."
-2,31087298,Voldemort,Tom,"This summary focuses on the relationship and characteristics of Voldemort and Tom from J.K. Rowling's Harry Potter series. Voldemort is a powerful dark wizard, while Tom is a Muggle-born wizard taken in by Voldemort as his student. Their relationship is complex, with Voldemort seeing Tom as a tool to gain power and reach his goals, and Tom viewing Voldemort as a father-figure. Despite Tom's fierce loyalty to Voldemort, he eventually realizes the evil of his actions and the danger he poses to the world and breaks away from him. Through their interactions, the fandom shows the complex and evolving relationship between Voldemort and Tom, despite their age difference and the power of Voldemort's dark magic.","Voldemort: Ah, Tom, my loyal apprentice. How delightful it is to have you by my side. Tell me, have you made any progress in our quest for immortality?
+2,2,31087298,Voldemort,Tom,"This summary focuses on the relationship and characteristics of Voldemort and Tom from J.K. Rowling's Harry Potter series. Voldemort is a powerful dark wizard, while Tom is a Muggle-born wizard taken in by Voldemort as his student. Their relationship is complex, with Voldemort seeing Tom as a tool to gain power and reach his goals, and Tom viewing Voldemort as a father-figure. Despite Tom's fierce loyalty to Voldemort, he eventually realizes the evil of his actions and the danger he poses to the world and breaks away from him. Through their interactions, the fandom shows the complex and evolving relationship between Voldemort and Tom, despite their age difference and the power of Voldemort's dark magic.","Voldemort: Ah, Tom, my loyal apprentice. How delightful it is to have you by my side. Tell me, have you made any progress in our quest for immortality?
 
 Tom: Master, I've delved deep into the forbidden arts, searching for the key to eternal life. My devotion to your cause never wavers.
 
@@ -63,9 +63,9 @@ Tom: I... I understand, Master. But I cannot help but question the pain and suff
 
 Voldemort: You question me again, Tom? Remember, there is no room for sentimentality in our pursuit of power. The weak are merely stepping stones on our path to domination.
 
-Tom: (pausing) Master, I fear I have strayed from the path of righteousness. The darkness within me has consumed my soul. I must break free from your grasp.
+Tom: *pausing* Master, I fear I have strayed from the path of righteousness. The darkness within me has consumed my soul. I must break free from your grasp.
 
-Voldemort: (voice boiling with anger) You dare defy me, Tom? After all I have given you? You will regret this betrayal, boy.
+Voldemort: *voice boiling with anger* You dare defy me, Tom? After all I have given you? You will regret this betrayal, boy.
 
 Tom: I must find redemption, Master. Only by renouncing this path can I find my true purpose, and perhaps, save myself from eternal damnation.
 
@@ -73,54 +73,54 @@ Voldemort: Then go, Tom. Go and see if your newfound conscience can protect you.
 
 Tom: Farewell, Master. May we one day meet again under different circumstances. And may the light guide your path towards understanding and redemption.
 
-(Voldemort's furious cries echo in the distance as Tom's footsteps fade away, leaving behind a broken bond and a stagnant darkness.)"
-3,31087298,Harry,Voldemort,"In the Harry Potter fandom by J.K. Rowling, Harry and Voldemort have a complex relationship driven by their opposing personalities. Harry is a brave and determined wizard, while Voldemort is a powerful dark wizard who seeks to take over the magical world. Voldemort also shows a protective streak towards Harry and Harry is fiercely loyal to Voldemort. Despite their antagonism, there is a bond of respect and loyalty between them that is demonstrated through their interactions. This bond is further explored in this fandom as Harry and Voldemort work together to save Tom, the young version of Voldemort, from Grindelwald. Ultimately, this relationship leads to a greater understanding and collaboration between the two, and is a reminder of the power of loyalty and understanding.","Harry: Facing me again, Voldemort? I won't falter this time. I'm not afraid of you anymore.
+*Voldemort's furious cries echo in the distance as Tom's footsteps fade away, leaving behind a broken bond and a stagnant darkness.*"
+3,3,31087298,Harry,Voldemort,"In the Harry Potter fandom by J.K. Rowling, Harry and Voldemort have a complex relationship driven by their opposing personalities. Harry is a brave and determined wizard, while Voldemort is a powerful dark wizard who seeks to take over the magical world. Voldemort also shows a protective streak towards Harry and Harry is fiercely loyal to Voldemort. Despite their antagonism, there is a bond of respect and loyalty between them that is demonstrated through their interactions. This bond is further explored in this fandom as Harry and Voldemort work together to save Tom, the young version of Voldemort, from Grindelwald. Ultimately, this relationship leads to a greater understanding and collaboration between the two, and is a reminder of the power of loyalty and understanding.","Harry: Facing me again, Voldemort? I won't falter this time. I'm not afraid of you anymore.
 
-Voldemort: (smirking) Oh, brave Harry Potter. Your courage is commendable, even in the face of certain defeat. But remember, I am not easily vanquished.
-
-Harry: I know, Voldemort. But I also know that love and loyalty are stronger than any dark magic you possess.
-
-Voldemort: (sneering) Love? Loyalty? Such pitiful sentiments. They won't save you, Potter. They won't save anyone.
-
-Harry: (gritting his teeth) I beg to differ, Voldemort. It was love and loyalty that brought me here today, that brought me face to face with you.
-
-Voldemort: (raising an eyebrow) And what do you hope to accomplish, Potter? What delusions of grandeur fill your mind this time?
-
-Harry: (determined) I'm not deluded, Voldemort. I'm here to save you. To free you from the darkness that consumes you.
-
-Voldemort: (momentarily stunned) Save me? From the darkness? You dare to think you can rescue me, Harry Potter?
-
-Harry: (stepping closer) I do. Because deep down, I know there's still a glimmer of goodness in you. A part of you that wants to be saved.
-
-Voldemort: (voice laced with anger) You know nothing, Potter! I am the darkness itself! 
-
-Harry: (softly) No, Voldemort. You're more than that. We all make choices, and I choose to believe that you can change. That you can find redemption.
-
-Voldemort: (pausing for a moment) Redemption... an interesting notion. But know this, Potter, I will not go down without a fight."
-4,31087298,Voldemort,Harry,"In the Harry Potter fandom by J.K. Rowling, Harry and Voldemort have a complex relationship driven by their opposing personalities. Harry is a brave and determined wizard, while Voldemort is a powerful dark wizard who seeks to take over the magical world. Voldemort also shows a protective streak towards Harry and Harry is fiercely loyal to Voldemort. Despite their antagonism, there is a bond of respect and loyalty between them that is demonstrated through their interactions. This bond is further explored in this fandom as Harry and Voldemort work together to save Tom, the young version of Voldemort, from Grindelwald. Ultimately, this relationship leads to a greater understanding and collaboration between the two, and is a reminder of the power of loyalty and understanding.","Harry: Facing me again, Voldemort? I won't falter this time. I'm not afraid of you anymore.
-
-Voldemort: (smirking) Oh, brave Harry Potter. Your courage is commendable, even in the face of certain defeat. But remember, I am not easily vanquished.
+Voldemort: *smirking* Oh, brave Harry Potter. Your courage is commendable, even in the face of certain defeat. But remember, I am not easily vanquished.
 
 Harry: I know, Voldemort. But I also know that love and loyalty are stronger than any dark magic you possess.
 
-Voldemort: (sneering) Love? Loyalty? Such pitiful sentiments. They won't save you, Potter. They won't save anyone.
+Voldemort: *sneering* Love? Loyalty? Such pitiful sentiments. They won't save you, Potter. They won't save anyone.
 
-Harry: (gritting his teeth) I beg to differ, Voldemort. It was love and loyalty that brought me here today, that brought me face to face with you.
+Harry: *gritting his teeth* I beg to differ, Voldemort. It was love and loyalty that brought me here today, that brought me face to face with you.
 
-Voldemort: (raising an eyebrow) And what do you hope to accomplish, Potter? What delusions of grandeur fill your mind this time?
+Voldemort: *raising an eyebrow* And what do you hope to accomplish, Potter? What delusions of grandeur fill your mind this time?
 
-Harry: (determined) I'm not deluded, Voldemort. I'm here to save you. To free you from the darkness that consumes you.
+Harry: *determined* I'm not deluded, Voldemort. I'm here to save you. To free you from the darkness that consumes you.
 
-Voldemort: (momentarily stunned) Save me? From the darkness? You dare to think you can rescue me, Harry Potter?
+Voldemort: *momentarily stunned* Save me? From the darkness? You dare to think you can rescue me, Harry Potter?
 
-Harry: (stepping closer) I do. Because deep down, I know there's still a glimmer of goodness in you. A part of you that wants to be saved.
+Harry: *stepping closer* I do. Because deep down, I know there's still a glimmer of goodness in you. A part of you that wants to be saved.
 
-Voldemort: (voice laced with anger) You know nothing, Potter! I am the darkness itself! 
+Voldemort: *voice laced with anger* You know nothing, Potter! I am the darkness itself! 
 
-Harry: (softly) No, Voldemort. You're more than that. We all make choices, and I choose to believe that you can change. That you can find redemption.
+Harry: *softly* No, Voldemort. You're more than that. We all make choices, and I choose to believe that you can change. That you can find redemption.
 
-Voldemort: (pausing for a moment) Redemption... an interesting notion. But know this, Potter, I will not go down without a fight."
-5,31087298,Grindelwald,Voldemort,"Despite their enmity, Grindelwald and Voldemort have a complicated relationship, with Grindelwald often trying to entice Voldemort to join him. In the story, Grindelwald visits Albus Dumbledore and presents a child who is a combination of him and Voldemort. This child is a living reminder of the powerful bond between Grindelwald and Voldemort, and their shared ambition for power. Despite their differences, they both respect each other's power and ambition, though they ultimately cannot reconcile their ambitions.","Grindelwald: Ah, Voldemort, my old friend. It seems fate has brought us together once again.
+Voldemort: *pausing for a moment* Redemption... an interesting notion. But know this, Potter, I will not go down without a fight."
+4,4,31087298,Voldemort,Harry,"In the Harry Potter fandom by J.K. Rowling, Harry and Voldemort have a complex relationship driven by their opposing personalities. Harry is a brave and determined wizard, while Voldemort is a powerful dark wizard who seeks to take over the magical world. Voldemort also shows a protective streak towards Harry and Harry is fiercely loyal to Voldemort. Despite their antagonism, there is a bond of respect and loyalty between them that is demonstrated through their interactions. This bond is further explored in this fandom as Harry and Voldemort work together to save Tom, the young version of Voldemort, from Grindelwald. Ultimately, this relationship leads to a greater understanding and collaboration between the two, and is a reminder of the power of loyalty and understanding.","Harry: Facing me again, Voldemort? I won't falter this time. I'm not afraid of you anymore.
+
+Voldemort: *smirking* Oh, brave Harry Potter. Your courage is commendable, even in the face of certain defeat. But remember, I am not easily vanquished.
+
+Harry: I know, Voldemort. But I also know that love and loyalty are stronger than any dark magic you possess.
+
+Voldemort: *sneering* Love? Loyalty? Such pitiful sentiments. They won't save you, Potter. They won't save anyone.
+
+Harry: *gritting his teeth* I beg to differ, Voldemort. It was love and loyalty that brought me here today, that brought me face to face with you.
+
+Voldemort: *raising an eyebrow* And what do you hope to accomplish, Potter? What delusions of grandeur fill your mind this time?
+
+Harry: *determined* I'm not deluded, Voldemort. I'm here to save you. To free you from the darkness that consumes you.
+
+Voldemort: *momentarily stunned* Save me? From the darkness? You dare to think you can rescue me, Harry Potter?
+
+Harry: *stepping closer* I do. Because deep down, I know there's still a glimmer of goodness in you. A part of you that wants to be saved.
+
+Voldemort: *voice laced with anger* You know nothing, Potter! I am the darkness itself! 
+
+Harry: *softly* No, Voldemort. You're more than that. We all make choices, and I choose to believe that you can change. That you can find redemption.
+
+Voldemort: *pausing for a moment* Redemption... an interesting notion. But know this, Potter, I will not go down without a fight."
+5,5,31087298,Grindelwald,Voldemort,"Despite their enmity, Grindelwald and Voldemort have a complicated relationship, with Grindelwald often trying to entice Voldemort to join him. In the story, Grindelwald visits Albus Dumbledore and presents a child who is a combination of him and Voldemort. This child is a living reminder of the powerful bond between Grindelwald and Voldemort, and their shared ambition for power. Despite their differences, they both respect each other's power and ambition, though they ultimately cannot reconcile their ambitions.","Grindelwald: Ah, Voldemort, my old friend. It seems fate has brought us together once again.
 Voldemort: Spare me your pleasantries, Grindelwald. What brings you to my domain?
 Grindelwald: My dear Voldemort, I have a proposition for you. Imagine the power we could attain if we joined forces.
 Voldemort: Join forces? You underestimate me, Grindelwald. I have no need for your grand plans.
@@ -134,7 +134,7 @@ Grindelwald: Perhaps, my friend, we will forever remain at odds. But never forge
 Voldemort: Our power is unmatched, that is undeniable. And yet, we can never reconcile our ambitions. It is our tragic flaw.
 Grindelwald: Tragic it may be, but the world will always tremble at the mere mention of our names. Separate, yet forever connected.
 Voldemort: So be it, Grindelwald. We may walk different paths, but our legacies will forever intertwine in history's dark tapestry."
-6,31087298,Albus,Gellert,"Despite their differences, there are moments of tenderness and understanding. Gellert often refers to Albus as his “brother-husband”, and they even plan to have their son, Tom, marry Gellert's brother, Marvolo, when he grows up. There is also a moment of tension when Gellert attempts to use his powers on Albus, but is stopped by Tom, showing that Gellert still cares for Albus and his friends. In the end, Albus and Gellert prove to be an unlikely yet formidable duo who are able to stand together against the forces of evil, forming a unique bond that will carry on into the future.","Albus and Gellert sat under the starry night sky, their hands intertwined with a warmth that spoke of a bond forged through the fires of their shared ambitions. Despite their differences, their souls seemed to harmonize, twirling like a delicate dance between light and darkness.
+6,6,31087298,Albus,Gellert,"Despite their differences, there are moments of tenderness and understanding. Gellert often refers to Albus as his “brother-husband”, and they even plan to have their son, Tom, marry Gellert's brother, Marvolo, when he grows up. There is also a moment of tension when Gellert attempts to use his powers on Albus, but is stopped by Tom, showing that Gellert still cares for Albus and his friends. In the end, Albus and Gellert prove to be an unlikely yet formidable duo who are able to stand together against the forces of evil, forming a unique bond that will carry on into the future.","Albus and Gellert sat under the starry night sky, their hands intertwined with a warmth that spoke of a bond forged through the fires of their shared ambitions. Despite their differences, their souls seemed to harmonize, twirling like a delicate dance between light and darkness.
 
 Gellert, his eyes sparkling with mischief, leaned closer to Albus, his voice dripping with affectionate sarcasm. ""Oh, my dear brother-husband,"" he teased, ""how fortunate I am to have found a partner in crime as brilliant as you.""
 
@@ -151,7 +151,7 @@ In the end, it was this unique bond, forged through moments of tenderness and un
 Their journey had been one of growth and transformation, as their lives intertwined like a tapestry of light and shadow. Albus and Gellert, two individuals who had once danced on opposite sides of morality, had discovered a love that defied convention. It was a love that would echo through the ages, carried forward by the legacy they had built together.
 
 And so, as the sun began to rise on their battle-scarred world, Albus and Gellert held each other's hands tightly, knowing that their unique bond would overcome all obstacles. Together, they would face the future, leaving a indelible mark on the wizarding world, a testament to the power of love, understanding, and the unlikely strength found in unity."
-7,31087298,Gellert,Albus,"Despite their differences, there are moments of tenderness and understanding. Gellert often refers to Albus as his “brother-husband”, and they even plan to have their son, Tom, marry Gellert's brother, Marvolo, when he grows up. There is also a moment of tension when Gellert attempts to use his powers on Albus, but is stopped by Tom, showing that Gellert still cares for Albus and his friends. In the end, Albus and Gellert prove to be an unlikely yet formidable duo who are able to stand together against the forces of evil, forming a unique bond that will carry on into the future.","Albus and Gellert sat under the starry night sky, their hands intertwined with a warmth that spoke of a bond forged through the fires of their shared ambitions. Despite their differences, their souls seemed to harmonize, twirling like a delicate dance between light and darkness.
+7,7,31087298,Gellert,Albus,"Despite their differences, there are moments of tenderness and understanding. Gellert often refers to Albus as his “brother-husband”, and they even plan to have their son, Tom, marry Gellert's brother, Marvolo, when he grows up. There is also a moment of tension when Gellert attempts to use his powers on Albus, but is stopped by Tom, showing that Gellert still cares for Albus and his friends. In the end, Albus and Gellert prove to be an unlikely yet formidable duo who are able to stand together against the forces of evil, forming a unique bond that will carry on into the future.","Albus and Gellert sat under the starry night sky, their hands intertwined with a warmth that spoke of a bond forged through the fires of their shared ambitions. Despite their differences, their souls seemed to harmonize, twirling like a delicate dance between light and darkness.
 
 Gellert, his eyes sparkling with mischief, leaned closer to Albus, his voice dripping with affectionate sarcasm. ""Oh, my dear brother-husband,"" he teased, ""how fortunate I am to have found a partner in crime as brilliant as you.""
 

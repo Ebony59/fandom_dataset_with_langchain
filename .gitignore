@@ -1,3 +1,5 @@
 *.ipynb
-test_output/
+*.csv
+fandom_list.csv
+temp_output.txt
 __pycache__/

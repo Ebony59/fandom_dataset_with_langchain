@@ -15,3 +15,6 @@ The extracted summaries and conversations are saved in `output/`.
 run `python pipeline.py --fandom_id <fandom_id> --original_work <original_work>` to perform extraction for single fandom.
 
 For batch processing, edit `fandom_list.csv` and run `source run_pipeline.sh`. It will loop through the fandoms, and process the ones that are not already in `./output`.
+
+### Read this notion page for detailed writeup
+https://wild-chatter-b52.notion.site/Generating-dataset-with-fandoms-novels-4d258eabbdb345549d8d4e00f54ceeba
